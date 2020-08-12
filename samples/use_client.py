@@ -52,18 +52,25 @@ pprint(suggested_searches)
 
 # Grab the suggested searches for the Accountable Care Organization Slug.
 suggested_searches_by_ids = federal_register_client.suggested_searches_by_slug(
-    slug_id="accountable-care-organizations"
+    slug_id='accountable-care-organizations'
 )
 pprint(suggested_searches_by_ids)
 
-# Do a more complex search for documents.
+# Search for documents using more specific criterias, like presidential names.
 documents_search = federal_register_client.documents(
     presidents=['donald-trump']
 )
+pprint(documents_search)
 
-# Save to file.
-federal_register_client.save_to_json(
-    content=documents_search,
-    file_name='samples/responses/documents_search.jsonc'
+# Search for presidential documents and group the count of documents by daily counts.
+documents_search = federal_register_client.documents_facets(
+    facet='daily',
+    presidents=['donald-trump']
 )
 pprint(documents_search)
+
+# Search for public documents using a more specific query, like the date they were available on.
+public_documents = federal_register_client.public_inspection_documents(
+    available_on='2020-08-10'
+)
+pprint(public_documents)

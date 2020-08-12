@@ -137,7 +137,7 @@ class FederalRegisterSession(TestCase):
 
         # Grab the Suggested Searches by a Slug ID.
         suggested_searches = self.federal_client.suggested_searches_by_slug(
-            slug_id="accountable-care-organizations"
+            slug_id='accountable-care-organizations'
         )
 
         # Make sure we have a response.
@@ -152,7 +152,7 @@ class FederalRegisterSession(TestCase):
     def test_documents_detailed_search_endpoint(self):
         """Test grabbing documents through a more complex query."""
 
-        # Grab presidential documents.
+        # Search for documents using more specific criterias, like presidential names.
         presidential_documents = self.federal_client.documents(
             presidents=['donald-trump']
         )
@@ -162,6 +162,41 @@ class FederalRegisterSession(TestCase):
 
         # And make sure we have some results.
         self.assertGreaterEqual(presidential_documents['count'], 10)
+
+    def test_documents_facet_endpoint(self):
+        """Test grabbing documents facet group count."""
+
+        # Search for presidential documents and group the count of documents by daily counts.
+        presidential_documents = self.federal_client.documents_facets(
+            facet='daily',
+            presidents=['donald-trump']
+        )
+
+        # Make sure we have a response.
+        self.assertIsNotNone(presidential_documents)
+
+        # And make sure we have some results.
+        self.assertGreaterEqual(
+            presidential_documents['1994-01-01']['count'],
+            0
+        )
+
+    def test_public_documents_search_endpoint(self):
+        """Test searching for public inspection documents through a more complex query."""
+
+        # Search for public documents using a more specific query, like the date they were available on.
+        public_documents = self.federal_client.public_inspection_documents(
+            available_on='2020-08-10'
+        )
+
+        # Make sure we have a response.
+        self.assertIsNotNone(public_documents)
+
+        # And make sure we have some results.
+        self.assertGreaterEqual(
+            public_documents['count'],
+            0
+        )
 
     def tearDown(self) -> None:
         """Teardown the `FederalRegisterClient`."""
