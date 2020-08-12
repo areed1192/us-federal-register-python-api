@@ -33,7 +33,7 @@ class FederalRegister():
         with open(file=file_path, mode='w+') as data_file:
             json.dump(obj=content, fp=data_file, indent=2)
 
-    def _build_url(self, endpoint: str, arguments: List[str]) -> str:
+    def _build_url(self, endpoint: str, arguments: List[str] = None) -> str:
         """Builds a full URL for the API Client.
 
         Arguments:
@@ -48,14 +48,20 @@ class FederalRegister():
         str: The full `HTTPS` url.
         """
 
-        full_url = '/'.join(
-            [self.api_base_url, self.api_version, endpoint] + arguments
-        )
+        if arguments:
+            full_url = '/'.join(
+                [self.api_base_url, self.api_version, endpoint] + arguments
+            )
+        else:
+            full_url = '/'.join(
+                [self.api_base_url, self.api_version, endpoint]
+            )
+
         full_url_with_format = full_url + '.json'
 
         return full_url_with_format
 
-    def _make_request(self, url: str, method: str, params: dict) -> dict:
+    def _make_request(self, url: str, method: str, params: dict = None) -> dict:
         """Used to make all the request for the client.
 
         Arguments:
@@ -77,12 +83,12 @@ class FederalRegister():
         if response.ok:
             return response.json()
 
-    def grab_document_by_id(self, document_id: int, fields: List[str]) -> dict:
+    def document_by_id(self, document_id: str, fields: List[str]) -> dict:
         """Fetch a single Federal Register document by their ID.
 
         Arguments:
         ----
-        document_id (int): Federal Register document number.
+        document_id (str): Federal Register document number.
 
         fields (List[str]): Which attributes of the documents to return; by 
             default, a reasonable set is returned, but a user can customize 
@@ -112,6 +118,67 @@ class FederalRegister():
             url=full_url,
             method='get',
             params=params
+        )
+
+        return response
+
+    def documents_by_id(self, document_ids: List[str], fields: List[str]) -> dict:
+        """Fetches multiple Federal Register documents by their IDs.
+
+        Arguments:
+        ----
+        document_ids (List[str]): A list of Federal Register document numbers.
+
+        fields (List[str]): Which attributes of the documents to return; by 
+            default, a reasonable set is returned, but a user can customize 
+            it to return exactly what is needed.
+
+        Returns:
+        ----
+        dict: The federal document with the specified fields.
+        """
+
+        document_ids = ','.join(document_ids)
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='documents',
+            arguments=[document_ids]
+        )
+
+        if fields == 'all':
+            fields = document_fields
+
+        # Define the paramters.
+        params = {
+            'fields[]': fields
+        }
+
+        # Make the request and grab the response.
+        response = self._make_request(
+            url=full_url,
+            method='get',
+            params=params
+        )
+
+        return response
+
+    def agencies(self) -> dict:
+        """Fetch all agency details.
+
+        Returns:
+        ----
+        dict: A list of agencies with their details.
+        """
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='agencies'
+        )
+
+        # Make the request and grab the response.
+        response = self._make_request(
+            url=full_url,
+            method='get'
         )
 
         return response

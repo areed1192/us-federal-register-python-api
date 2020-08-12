@@ -23,7 +23,7 @@ class FederalRegisterSession(TestCase):
         """Test grabbing a document by ID."""
 
         # Grab a document by the ID.
-        federal_document = self.federal_client.grab_document_by_id(
+        federal_document = self.federal_client.document_by_id(
             document_id='2020-17469',
             fields='all'
         )

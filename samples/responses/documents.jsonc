@@ -1,0 +1,233 @@
+{
+  "count": 2,
+  "results": [
+    {
+      "abstract": "This document contains final regulations under sections 162, 164, and 170 of the Internal Revenue Code (Code). First, the final regulations update the regulations under section 162 to reflect current law regarding the application of section 162 to taxpayers that make payments or transfers for business purposes to entities described in section 170(c). Second, the final regulations provide safe harbors under section 162 to provide certainty with respect to the treatment of payments made by business entities to entities described in section 170(c). Third, the final regulations provide a safe harbor under section 164 for payments made to an entity described in section 170(c) by individuals who itemize deductions and receive or expect to receive a State or local tax credit in return. Fourth, the final regulations update the regulations under section 170 to reflect past guidance and case law regarding the application of the quid pro quo principle under section 170 to a donor who receives or expects to receive benefits from a third party. These regulations affect taxpayers who make transfers to entities described in section 170(c) for business purposes, and taxpayers who receive State or local tax credits in exchange for transfers to such entities or who receive other third-party benefits in exchange for transfers to such entities.",
+      "action": "Final regulations.",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "agency_names": [
+        "Treasury Department",
+        "Internal Revenue Service"
+      ],
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2020/08/11/2020-17393.html",
+      "cfr_references": [
+        {
+          "title": 26,
+          "part": 1,
+          "chapter": null,
+          "citation_url": null
+        }
+      ],
+      "citation": "85 FR 48467",
+      "comment_url": null,
+      "comments_close_on": null,
+      "correction_of": null,
+      "corrections": [],
+      "dates": "Effective date: These regulations are effective August 11, 2020.",
+      "disposition_notes": null,
+      "docket_id": "TD 9907",
+      "docket_ids": [
+        "TD 9907"
+      ],
+      "document_number": "2020-17393",
+      "effective_on": "2020-08-11",
+      "end_page": 48474,
+      "excerpts": "This document contains final regulations under sections 162, 164, and 170 of the Internal Revenue Code (Code). First, the final regulations update the regulations under section 162 to reflect current law regarding the application of section 162 to...",
+      "executive_order_notes": null,
+      "executive_order_number": null,
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2020/08/11/2020-17393.xml",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/11/2020-17393/treatment-of-payments-to-charitable-entities-in-return-for-consideration",
+      "images": {},
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2020-17393?publication_date=2020-08-11",
+      "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2020-08-11/2020-17393/mods.xml",
+      "page_length": 8,
+      "page_views": {
+        "count": 251,
+        "last_updated": "2020-08-11 20:15:09 -0400"
+      },
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2020-08-11/pdf/2020-17393.pdf",
+      "president": {
+        "name": "Donald Trump",
+        "identifier": "donald-trump"
+      },
+      "presidential_document_number": null,
+      "proclamation_number": null,
+      "public_inspection_pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17393.pdf?1596831313",
+      "publication_date": "2020-08-11",
+      "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2020/08/11/2020-17393.txt",
+      "regulation_id_number_info": {
+        "1545-BP40": null
+      },
+      "regulation_id_numbers": [
+        "1545-BP40"
+      ],
+      "regulations_dot_gov_info": {
+        "document_id": "IRS-2019-0056-0047",
+        "comments_count": 0,
+        "docket_id": "IRS-2019-0056",
+        "regulation_id_number": "1545-BP40",
+        "title": "Treatment of Payments to Charitable Entities in Return for Consideration (REG-107431-19)",
+        "docket_comments_count": 45,
+        "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=IRS-2019-0056",
+        "supporting_documents_count": null,
+        "supporting_documents": [],
+        "metadata": {}
+      },
+      "regulations_dot_gov_url": null,
+      "significant": false,
+      "signing_date": null,
+      "start_page": 48467,
+      "subtype": null,
+      "title": "Treatment of Payments to Charitable Entities in Return for Consideration",
+      "toc_doc": "Treatment of Payments to Charitable Entities in Return for Consideration",
+      "toc_subject": null,
+      "topics": [
+        "Income taxes",
+        "Reporting and recordkeeping requirements"
+      ],
+      "type": "Rule",
+      "volume": 85
+    },
+    {
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for all The Boeing Company Model 737-300, -400, -500, -600, -700, -700C, -800, -900, and -900ER series airplanes. An emergency AD was sent to all known U.S. owners and operators of these airplanes. This AD requires inspections of the engine bleed air 5th stage check valve on each engine, and replacement of the engine bleed air 5th stage check valve if any inspection is not passed. This AD was prompted by four recent reports of single-engine shutdowns due to engine bleed air 5th stage check valves being stuck open. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "action": "Final rule; request for comments.",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "agency_names": [
+        "Transportation Department",
+        "Federal Aviation Administration"
+      ],
+      "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2020/08/11/2020-17469.html",
+      "cfr_references": [
+        {
+          "title": 14,
+          "part": 39,
+          "chapter": null,
+          "citation_url": null
+        }
+      ],
+      "citation": "85 FR 48465",
+      "comment_url": "http://www.regulations.gov/#!submitComment;D=FAA-2020-0684-0001",
+      "comments_close_on": null,
+      "correction_of": null,
+      "corrections": [],
+      "dates": "This AD is effective August 26, 2020 to all persons except those persons to whom it was made immediately effective by Emergency AD 2020- 16-51, issued on July 23, 2020, which contained the requirements of this amendment.",
+      "disposition_notes": null,
+      "docket_id": "Docket No. FAA-2020-0684",
+      "docket_ids": [
+        "Docket No. FAA-2020-0684",
+        "Project Identifier AD-2020-01032-T",
+        "Amendment 39-21204",
+        "AD 2020-16-51"
+      ],
+      "document_number": "2020-17469",
+      "effective_on": "2020-08-26",
+      "end_page": 48467,
+      "excerpts": "The FAA is adopting a new airworthiness directive (AD) for all The Boeing Company Model 737-300, -400, -500, -600, -700, -700C, -800, -900, and -900ER series airplanes. An emergency AD was sent to all known U.S. owners and operators of these airplanes....",
+      "executive_order_notes": null,
+      "executive_order_number": null,
+      "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2020/08/11/2020-17469.xml",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/11/2020-17469/airworthiness-directives-the-boeing-company-airplanes",
+      "images": {},
+      "json_url": "https://www.federalregister.gov/api/v1/documents/2020-17469?publication_date=2020-08-11",
+      "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2020-08-11/2020-17469/mods.xml",
+      "page_length": 3,
+      "page_views": {
+        "count": 144,
+        "last_updated": "2020-08-11 20:15:09 -0400"
+      },
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2020-08-11/pdf/2020-17469.pdf",
+      "president": {
+        "name": "Donald Trump",
+        "identifier": "donald-trump"
+      },
+      "presidential_document_number": null,
+      "proclamation_number": null,
+      "public_inspection_pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17469.pdf?1597063524",
+      "publication_date": "2020-08-11",
+      "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2020/08/11/2020-17469.txt",
+      "regulation_id_number_info": {
+        "2120-AA64": {
+          "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201604&RIN=2120-AA64&operation=OPERATION_EXPORT_XML",
+          "issue": "201604",
+          "title": "Airworthiness Directives",
+          "priority_category": "Routine and Frequent",
+          "html_url": "https://www.federalregister.gov/regulations/2120-AA64/airworthiness-directives"
+        }
+      },
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "regulations_dot_gov_info": {
+        "document_id": "FAA-2020-0684-0001",
+        "comments_count": 0,
+        "agency_id": "FAA",
+        "docket_id": "FAA-2020-0684",
+        "regulation_id_number": "2120-AA64",
+        "title": "AD-2020-01032-T The Boeing Company Model 737-300, -400, -500, -600, -700, -700C, -800, -900, and 900ER series airplanes",
+        "docket_comments_count": 0,
+        "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FAA-2020-0684",
+        "supporting_documents_count": 0,
+        "supporting_documents": [],
+        "metadata": {},
+        "regulatory_plan": {
+          "html_url": "https://www.federalregister.gov/regulations/2120-AA64/airworthiness-directives",
+          "title": "Airworthiness Directives"
+        }
+      },
+      "regulations_dot_gov_url": "http://www.regulations.gov/#!documentDetail;D=FAA-2020-0684-0001",
+      "significant": false,
+      "signing_date": null,
+      "start_page": 48465,
+      "subtype": null,
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "toc_doc": "The Boeing Company Airplanes",
+      "toc_subject": "Airworthiness Directives:\n",
+      "topics": [
+        "Air transportation",
+        "Aircraft",
+        "Aviation safety",
+        "Safety"
+      ],
+      "type": "Rule",
+      "volume": 85
+    }
+  ]
+}
