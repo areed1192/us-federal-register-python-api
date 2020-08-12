@@ -1,0 +1,379 @@
+{
+  "health-and-public-welfare": [
+    {
+      "description": "<p>The Patient Protection and Affordable Care Act (PPACA) was signed into law on March 23, 2010. That law, along with the Health Care and Education Reconciliation Act of 2010 and related measures is being implemented by Federal agencies to reform certain aspects of the private health insurance industry and public health insurance programs, including increasing insurance coverage of pre-existing conditions and expanding access to insurance. The implementing agencies include the various agencies of the Department of Health and Human Services, the Department of Labor, the Internal Revenue Service, and others.</p>",
+      "slug": "health-care-reform",
+      "search_conditions": {
+        "term": "\"affordable care act\""
+      },
+      "section": "health-and-public-welfare",
+      "title": "Health Care Reform",
+      "documents_in_last_year": 121,
+      "documents_with_open_comment_periods": 8,
+      "position": 1
+    },
+    {
+      "description": "<p>The U.S. government has a variety of programs that assist veterans of military service to find employment and training opportunities. The Veterans Employment and Training Service and the Employment and Training Administration of the Department of Labor, the Office of Personnel Management, the Department of Veterans Affairs, and the Department of Defense administer programs that assist veterans in their transition to civilian life.  </p>",
+      "slug": "veterans-employment-training",
+      "search_conditions": {
+        "term": "\"veterans employment\" | \"Jobs for Veterans Act\" | userra | \"Veterans Preference\"",
+        "near": {
+          "within": "25"
+        }
+      },
+      "section": "health-and-public-welfare",
+      "title": "Veterans Employment & Training",
+      "documents_in_last_year": 33,
+      "documents_with_open_comment_periods": 3,
+      "position": 1
+    },
+    {
+      "description": "<p>On June 22, 1944, the Servicemen's Readjustment Act of 1944 became law. It was commonly known as the G.I. Bill of Rights. Since the original 1944 law, the term has come to include other veterans' benefit programs created to assist veterans of subsequent wars as well as peacetime service, including the Montgomery G.I. Bill, the Post-9/11 Veterans Education Assistance Improvements Act of 2010, and the Survivors' and Dependents' Educational Assistance Program. The Department of Veterans Affairs, the Department of Defense, and several other agencies participate in administering educational programs for veterans.</p>",
+      "slug": "veterans-educational-benefits",
+      "search_conditions": {
+        "term": "\"Vocational Rehabilitation\" | \"Educational Assistance\" | \"GI Bill\" | \"Post-9/11\"",
+        "cfr": {
+          "title": "38"
+        }
+      },
+      "section": "health-and-public-welfare",
+      "title": "Veterans Educational Benefits",
+      "documents_in_last_year": 9,
+      "documents_with_open_comment_periods": 1,
+      "position": 2
+    },
+    {
+      "description": "<p>The Department of Homeland Security and its Federal Emergency Management Agency (FEMA) administer disaster assistance and emergency management in the U.S. Under the Stafford Act, state governors initiate requests for disaster assistance. If the President finds that a major disaster or emergency exists, FEMA activates Federal funding programs to assist in the response and recovery effort. This search includes some related disaster assistance programs administered by other Federal agencies, such as the Small Business Administration, Farm Service Agency, and Commodity Credit Corporation.</p>",
+      "slug": "disaster-declarations-assistance",
+      "search_conditions": {
+        "term": "Disaster declaration | disaster assistance"
+      },
+      "section": "health-and-public-welfare",
+      "title": "Disaster Declarations & Assistance",
+      "documents_in_last_year": 873,
+      "documents_with_open_comment_periods": 21,
+      "position": 3
+    },
+    {
+      "description": "<p>The Department of Veterans Affairs administers claims for service related disabilities. Disability compensation is available for injuries or diseases that happened while on active duty, or were made worse by active military service. The amount of basic benefit paid varies depending on the severity of the condition. Additional amounts may be paid if the veteran has: very severe disabilities or loss of limb(s); a spouse, child(ren), or dependent parent(s); or a seriously disabled spouse. The Code of Federal Regulations contains claim information and a schedule of disability ratings in title 38, parts 3 and 4.</p>",
+      "slug": "veterans-disability-ratings-claims",
+      "search_conditions": {
+        "cfr": {
+          "title": "38",
+          "part": "3"
+        }
+      },
+      "section": "health-and-public-welfare",
+      "title": "Veterans Disability Ratings & Claims",
+      "documents_in_last_year": 2,
+      "documents_with_open_comment_periods": 1,
+      "position": 4
+    },
+    {
+      "description": "<p>The Privacy Act of 1974 (5 U.S.C. \u00a7 552a) governs the collection, maintenance, use, and dissemination of personally identifiable information about individuals in systems of records (SORNs) maintained by Federal agencies. A system of records is an agency record-keeping system which contains information that can be retrieved by the name of the individual or by some other personal identifier. The Privacy Act requires that agencies give the public notice of their systems of records by publication in the Federal Register. The Privacy Act prohibits the disclosure of personal information about an individual without the written consent of the individual, unless the disclosure is permitted under one of twelve statutory exceptions. The Act also gives individuals the right to gain access to their records and ask that they be amended. </p>",
+      "slug": "privacy-act-notices-regs",
+      "search_conditions": {
+        "term": "\"Privacy Act of 1974\" | \"System of Records\""
+      },
+      "section": "health-and-public-welfare",
+      "title": "Privacy Act Notices & Regs",
+      "documents_in_last_year": 1106,
+      "documents_with_open_comment_periods": 74,
+      "position": 5
+    },
+    {
+      "description": "<p>Health information technology (HIT) is the comprehensive management of health information across computerized systems and secure exchange between consumers, providers, government and quality entities, and insurers. The Department of Health and Human Services is implementing HIT to improve health care quality; prevent medical errors; reduce health care costs; increase administrative efficiencies; decrease paperwork; and expand access to affordable care. HIT may also bring public health benefits, such as early detection of infectious disease outbreaks around the country, and improved tracking of chronic disease management.</p>",
+      "slug": "electronic-health-information-technology",
+      "search_conditions": {
+        "term": "  \"electronic health records\" | \"health information technology\" | \"electronic prescribing\"",
+        "near": {
+          "within": "25"
+        }
+      },
+      "section": "health-and-public-welfare",
+      "title": "Electronic Health Information Technology",
+      "documents_in_last_year": 77,
+      "documents_with_open_comment_periods": 4,
+      "position": 6
+    },
+    {
+      "description": "<p>The Product Safety search relates to product safety standards and hazardous products in the home and workplace. It is primarily focused on the safety of consumer products, medical products, and manufactured items. The agencies in this search include the Consumer Product Safety Commission, Department of Health and Human Services agencies, the Department of Labor, and the Environmental Protection Agency. </p>",
+      "slug": "product-safety",
+      "search_conditions": {
+        "term": "\"product safety\" | \"safety hazard\"",
+        "near": {
+          "within": "25"
+        },
+        "agency_ids": [84, 145, 221, 271]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Product Safety",
+      "documents_in_last_year": 140,
+      "documents_with_open_comment_periods": 6,
+      "position": 7
+    },
+    {
+      "description": "<p>A controlled substance is generally a drug or chemical that a government regulates to set limitations on manufacturing, possession, or use. This may include illegal drugs and prescription medications. In the U.S., the Drug Enforcement Administration is responsible for suppressing illegal drug use and distribution by enforcing the Controlled Substances Act. Substances are classified according to schedules and consist primarily of potentially psychoactive substances. Controlled substances do not include many prescription items such as antibiotics. Other agencies, such as the Department of Health and Human Services, the Department of Transportation, and the Department of Homeland Security may issue regulations and notices related to controlled substances. </p>",
+      "slug": "controlled-substances",
+      "search_conditions": {
+        "term": "\"controlled substances\" -epa -usda",
+        "near": {
+          "within": "25"
+        }
+      },
+      "section": "health-and-public-welfare",
+      "title": "Controlled Substances",
+      "documents_in_last_year": 301,
+      "documents_with_open_comment_periods": 36,
+      "position": 8
+    },
+    {
+      "description": "<p>The Centers for Medicare and Medicaid Services (CMS) define an Accountable Care Organization (ACO) as an organization of health care providers that agrees to be accountable for the quality, cost, and overall care of Medicare beneficiaries assigned to it. The ACO payment and delivery reform model is an alternative to traditional fee-for-service programs. Section 3022 of the Patient Protection and Affordable Care Act (ACA) creates the Medicare Shared Savings program, allowing ACOs to contract with Medicare by January 2012. According to the ACA, the Medicare Shared Savings program, promotes accountability for a patient population and coordinates items and services under part A and B, and encourages investment in infrastructure and redesigned care processes for high quality and efficient service delivery.</p>",
+      "slug": "accountable-care-organizations",
+      "search_conditions": {
+        "term": "\"accountable care organization\""
+      },
+      "section": "health-and-public-welfare",
+      "title": "Accountable Care Organizations",
+      "documents_in_last_year": 6,
+      "documents_with_open_comment_periods": 0,
+      "position": 9
+    },
+    {
+      "description": "<p>The U.S. Constitution defines, on a basic level, how Federal elections are held in Articles I and II, and in various amendments. State law regulates most aspects of electoral law, including primaries, the eligibility of voters, state Electoral College proceedings, and state and local election processes (state rules are not part of this search). On the Federal level, the Federal Election Commission regulates public funding of elections and candidate expenditures to a certain extent. The Justice Department enforces the Voting Rights Act. The Defense Department administers the Federal Voting Assistance Program for uniformed service members and others living outside the U.S. The Election Assistance Commission and the Civil Rights Commission provide additional aid and oversight.   </p>",
+      "slug": "voting-elections",
+      "search_conditions": {
+        "term": "\"voting rights\" | nvra | fvap | =election -antitrust -dea -bop -tricare -ojjdp -fre",
+        "agency_ids": [52, 103, 127, 165, 268]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Voting & Elections",
+      "documents_in_last_year": 84,
+      "documents_with_open_comment_periods": 4,
+      "position": 10
+    },
+    {
+      "description": "<p>Open government is the governing doctrine which holds that citizens have the right to access the documents and proceedings of the government to allow for effective public participation and oversight. Information and communication technologies can be used to engage citizens, support the democratic decision-making processes and strengthen representative democracy. </p>",
+      "slug": "transparency-open-government",
+      "search_conditions": {
+        "term": "\"open government\""
+      },
+      "section": "health-and-public-welfare",
+      "title": "Transparency & Open Government",
+      "documents_in_last_year": 15,
+      "documents_with_open_comment_periods": 0,
+      "position": 11
+    },
+    {
+      "description": "<p>Food safety is a scientific discipline describing the handling, preparation, packaging, labeling, and storage of food in ways that prevent food-borne illness. Various agencies of the Department of Health and Human Services and the Department of Agriculture, such as the Food and Drug Administration and the Food Safety and Inspection Service are principally responsible for food safety in the U.S. This search also includes other agencies with related responsibilities for preventing food illness, such as the Environmental Protection Agency.</p>",
+      "slug": "food-safety",
+      "search_conditions": {
+        "term": "\"food safety\" inspection | labeling | packaging | disease | quarantine | additives"
+      },
+      "section": "health-and-public-welfare",
+      "title": "Food Safety",
+      "documents_in_last_year": 4819,
+      "documents_with_open_comment_periods": 230,
+      "position": 12
+    },
+    {
+      "description": "<p>The Federal Food, Drug, and Cosmetic Act gives authority to the Food and Drug Administration (FDA) of HHS to oversee the safety of food additives. The FDA makes determinations as to whether a food substance has been shown to be \"generally recognized as safe\" for the intended use by a consensus of expert opinion. The FDA can take enforcement action to stop distribution of foods that contain an unlawful food additive. This search includes some related food safety actions of the Environmental Protection Agency and the Department of Agriculture. </p>",
+      "slug": "food-substances-generally-recognized-as-safe",
+      "search_conditions": {
+        "term": "GRAS",
+        "near": {
+          "within": "25"
+        },
+        "agency_ids": [221, 145, 12]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Food Substances Generally Recognized as Safe",
+      "documents_in_last_year": 13,
+      "documents_with_open_comment_periods": 0,
+      "position": 13
+    },
+    {
+      "description": "<p>The Centers for Medicare &amp; Medicaid Services (CMS) of the Department of Health and Human Services administers the Medicare program, and works in partnership with state governments to administer Medicaid and the State Children's Health Insurance Program (SCHIP). CMS establishes Medicare payment schedules to reimburse physicians and other health care providers serving the elderly, provides funding to states to partially cover the costs of the Medicaid program for lower income persons, and provides SCHIP funding to assist states in covering uninsured children in families with modest incomes.</p>",
+      "slug": "medicare-medicaid-and-schip-payments",
+      "search_conditions": {
+        "term": "medicare | medicaid | schip & \"payment system\"",
+        "near": {
+          "within": "25"
+        },
+        "agency_ids": [221, 45]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Medicare, Medicaid, and SCHIP Payments",
+      "documents_in_last_year": 52,
+      "documents_with_open_comment_periods": 3,
+      "position": 14
+    },
+    {
+      "description": "<p>The Department of Education administers student financial aid programs at the Federal level in the U.S., including grants, work-study, and loans. Financial assistance helps students pay education expenses including tuition and fees, room and board, books, and supplies for education at a college, university, or vocational school.</p>",
+      "slug": "student-financial-aid",
+      "search_conditions": {
+        "term": "student aid | financial assistance",
+        "agency_ids": [126]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Student Financial Aid",
+      "documents_in_last_year": 168,
+      "documents_with_open_comment_periods": 3,
+      "position": 15
+    },
+    {
+      "description": "<p>The \"Race to the Top\" and \"No Child Left Behind\" education programs are standards-based education reform, administered by the Department of Education. The programs are based on setting high standards and establishing measurable goals to improve individual outcomes in education. The Race to the Top program was funded by the American Recovery and Reinvestment Act of 2009, and the No Child Left Behind program was enacted in 2001. </p>",
+      "slug": "education-initiatives",
+      "search_conditions": {
+        "term": "\"race to the top\" | \"no child left behind\""
+      },
+      "section": "health-and-public-welfare",
+      "title": "Education Initiatives",
+      "documents_in_last_year": 6,
+      "documents_with_open_comment_periods": 1,
+      "position": 16
+    },
+    {
+      "description": "<p>The Department of Agriculture's Food and Nutrition Service, and Food and Consumer Service administer aspects of the Federal programs that provide nutrition assistance to low income persons living in the U.S. The Supplemental Nutrition Assistance Program (SNAP), historically known as the Food Stamp Program, the Special Supplemental Nutrition Program for Women, Infants and Children (WIC), and the School Lunch program are included in this search. Some documents incidentally related to those programs may also appear in this search.</p>",
+      "slug": "nutrition-assistance-programs",
+      "search_conditions": {
+        "term": "wic | snap | \"food stamps\" | \"school lunch\""
+      },
+      "section": "health-and-public-welfare",
+      "title": "Nutrition Assistance Programs",
+      "documents_in_last_year": 204,
+      "documents_with_open_comment_periods": 15,
+      "position": 17
+    },
+    {
+      "description": "<p>The Clinical Laboratory Improvement Amendments (CLIA) of 1988 authorized Federal regulatory standards for all clinical laboratory testing performed on humans in the U.S., except clinical trials and basic research.The CLIA program sets standards and issues certificates for clinical laboratory testing. CLIA defines a clinical laboratory as any facility which performs laboratory testing on specimens derived from humans to provide information for the diagnosis, prevention, or treatment of disease or impairment, and for the assessment of health. An objective of the CLIA is to ensure the accuracy, reliability and timeliness of test results regardless of where the test was performed. The Centers for Medicare and Medicaid Services (CMS) has the primary responsibility for the operation of the CLIA program. Other Health and Human Services agencies' articles may also appear in these search results. </p>",
+      "slug": "clinical-laboratory-improvement-program",
+      "search_conditions": {
+        "term": "clia",
+        "near": {
+          "within": "25"
+        },
+        "agency_ids": [221]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Clinical Laboratory Improvement Program",
+      "documents_in_last_year": 27,
+      "documents_with_open_comment_periods": 4,
+      "position": 18
+    },
+    {
+      "description": "<p>The Health Insurance Portability and Accountability Act (HIPAA) created standards that govern the privacy of medical records. The HIPAA \"Privacy Rule\" regulates the use and disclosure of certain information held by health care clearinghouses, employer sponsored health plans, health insurers, and medical service providers. The law authorizes regulations on the use and disclosure of Protected Health Information (PHI). PHI is any information held by a covered entity which concerns health status, provision of health care, or payment for health care that can be linked to an individual. This is interpreted to include any part of an individual's medical record or payment history.</p>",
+      "slug": "medical-privacy-hipaa-",
+      "search_conditions": {
+        "term": "hipaa & privacy",
+        "near": {
+          "within": "25"
+        }
+      },
+      "section": "health-and-public-welfare",
+      "title": "Medical Privacy (HIPAA)",
+      "documents_in_last_year": 47,
+      "documents_with_open_comment_periods": 1,
+      "position": 18
+    },
+    {
+      "description": "<p>A medical device is a product which is used for medical purposes in patients, in diagnosis, therapy or surgery.  In the U.S. medical devices are defined as a medical machine, contrivance, implant, in vitro reagent, or other similar or related article. The Food and Drug Administration is responsible for approving and regulating the use of medical devices. This search includes related documents issued by other Federal agencies.   </p>",
+      "slug": "medical-devices",
+      "search_conditions": {
+        "term": "\"medical devices\""
+      },
+      "section": "health-and-public-welfare",
+      "title": "Medical Devices",
+      "documents_in_last_year": 183,
+      "documents_with_open_comment_periods": 10,
+      "position": 19
+    },
+    {
+      "description": "<p>The Native American Graves Protection and Repatriation Act is a Federal law passed in 1990. NAGPRA provides a process for museums and Federal agencies to return certain Native American cultural items -- human remains, funerary objects, sacred objects, or objects of cultural patrimony -- to lineal descendants, and culturally affiliated Indian tribes and Native Hawaiian organizations. NAGPRA includes provisions for unclaimed and culturally unidentifiable Native American cultural items, intentional and inadvertent discovery of Native American cultural items on Federal and tribal lands, and penalties for noncompliance and illegal trafficking.</p>",
+      "slug": "native-american-remains-and-funerary-objects",
+      "search_conditions": {
+        "term": "NAGPRA -=FHWA -=FDIC"
+      },
+      "section": "health-and-public-welfare",
+      "title": "Native American Remains and Funerary Objects",
+      "documents_in_last_year": 160,
+      "documents_with_open_comment_periods": 0,
+      "position": 23
+    },
+    {
+      "description": "<p>The Americans with Disabilities Act  (ADA) was signed into law on July 26, 1990 and later amended with changes effective January 1, 2009. The ADA is a wide-ranging civil rights law that prohibits, under certain circumstances, discrimination based on disability. Disability is defined by the ADA as \"a physical or mental impairment that substantially limits a major life activity.\" The determination of whether any particular condition is considered a disability is made on a case by case basis. Several major departments and agencies of the Federal government issue regulations to implement and enforce the ADA.  </p>",
+      "slug": "americans-with-disabilities-act",
+      "search_conditions": {
+        "term": "\"Americans With Disabilities Act\"",
+        "near": {
+          "within": "25"
+        }
+      },
+      "section": "health-and-public-welfare",
+      "title": "Americans with Disabilities Act",
+      "documents_in_last_year": 139,
+      "documents_with_open_comment_periods": 7,
+      "position": 24
+    },
+    {
+      "description": "<p>Social Security Rulings (SSRs) are a series of precedential decisions relating to the programs administered by the Social Security Administration (SSA). SSRs may be based on case decisions made at all administrative levels of adjudication, such as Federal court decisions, Commissioner's decisions, opinions of the Office of the General Counsel, as well as policy interpretations of the law and regulations. Acquiescence Rulings (ARs) explain how SSA will apply a holding by a United States Court of Appeals that is at variance with SSA's national policies for adjudicating claims. This search also includes articles that reference or relate to SSRs and ARs. </p>",
+      "slug": "social-security-rulings-and-acquiescence-rulings",
+      "search_conditions": {
+        "term": "\"Acquiescence Ruling\" | \"Social Security Rulings\" | AR | SSR",
+        "near": {
+          "within": "25"
+        },
+        "agency_ids": [470]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Social Security Rulings and Acquiescence Rulings",
+      "documents_in_last_year": 10,
+      "documents_with_open_comment_periods": 0,
+      "position": 25
+    },
+    {
+      "description": "<p>The Consolidated Omnibus Budget Reconciliation Act of 1985 (or COBRA) mandates an insurance program giving some employees the ability to continue health insurance coverage after leaving employment.COBRA Title X places an excise tax on employers (generally those with 20 or more full time equivalent employees) whose group health plans fail to include certain continuing coverage requirements. Specific \"qualifying events\" must occur for continuing coverage to apply. COBRA allows for coverage for up to 18 months in most cases. If a person is deemed disabled by the Social Security Administration, coverage may continue for up to 29 months. In divorce cases, a former spouse's coverage may continue for up to 36 months. In the case of death of the former employee, a widow's coverage may continue for up to 36 months.</p>",
+      "slug": "continuation-of-health-benefits-cobra-",
+      "search_conditions": {
+        "term": "cobra",
+        "near": {
+          "within": "25"
+        },
+        "agency_ids": [221, 254, 271]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Continuation of Health Benefits (COBRA)",
+      "documents_in_last_year": 10,
+      "documents_with_open_comment_periods": 1,
+      "position": 26
+    },
+    {
+      "description": "<p>The Federal Sentencing Guidelines are rules established by the United States Sentencing Commission. The  that set out a uniform sentencing policy for individuals and organizations convicted of felonies and serious misdemeanors in the U.S. Federal courts system. The primary goal of the Guidelines is to alleviate sentencing disparities that research had indicated was prevalent in the existing sentencing system, and the guidelines reform was specifically intended to provide for determinate sentencing.</p>",
+      "slug": "sentencing-guidelines",
+      "search_conditions": {
+        "term": "\"Federal Sentencing Guidelines\" ",
+        "near": {
+          "within": "25"
+        },
+        "agency_ids": [515]
+      },
+      "section": "health-and-public-welfare",
+      "title": "Sentencing Guidelines",
+      "documents_in_last_year": 0,
+      "documents_with_open_comment_periods": 0,
+      "position": 27
+    },
+    {
+      "description": "<p>The American Recovery and Reinvestment Act of 2009 (ARRA) (<a href=\"http://api.fdsys.gov/link?collection=plaw&amp;congress=111&amp;lawtype=public&amp;lawnum=5&amp;link-type=html\" class=\"publ external\" target=\"_blank\">Pub. L. 111-5</a>) authorizes incentive payments to eligible professionals, eligible hospitals, critical access hospitals, and Medicare Advantage organizations to promote the adoption and meaningful use of Certified Electronic Health Record Incentive Programs (CEHRT). </p>\n\n<p>The Department of Health and Human Services and its subordinate agencies publish regulations and official notices relating to the adoption of national standards on meaningful use of electronic records in health information systems. The FCC also has a role in electronic health records technology under the National Broadband Plan.</p>",
+      "slug": "meaningful-use-of-electronic-health-records",
+      "search_conditions": {
+        "term": "\"meaningful use\""
+      },
+      "section": "health-and-public-welfare",
+      "title": "Meaningful Use of Electronic Health Records",
+      "documents_in_last_year": 11,
+      "documents_with_open_comment_periods": 1,
+      "position": 28
+    }
+  ]
+}

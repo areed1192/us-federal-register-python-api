@@ -1,0 +1,9 @@
+{
+  "description": "<p>The Centers for Medicare and Medicaid Services (CMS) define an Accountable Care Organization (ACO) as an organization of health care providers that agrees to be accountable for the quality, cost, and overall care of Medicare beneficiaries assigned to it. The ACO payment and delivery reform model is an alternative to traditional fee-for-service programs. Section 3022 of the Patient Protection and Affordable Care Act (ACA) creates the Medicare Shared Savings program, allowing ACOs to contract with Medicare by January 2012. According to the ACA, the Medicare Shared Savings program, promotes accountability for a patient population and coordinates items and services under part A and B, and encourages investment in infrastructure and redesigned care processes for high quality and efficient service delivery.</p>",
+  "slug": "accountable-care-organizations",
+  "search_conditions": {
+    "term": "\"accountable care organization\""
+  },
+  "section": "health-and-public-welfare",
+  "title": "Accountable Care Organizations"
+}

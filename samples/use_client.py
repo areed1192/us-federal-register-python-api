@@ -40,12 +40,30 @@ public_documents = federal_register_client.public_inspection_documents_by_id(
 )
 pprint(public_documents)
 
-# Grab Federal Register Agencies List..
+# Grab the current public documents.
 public_documents_current = federal_register_client.public_inspection_documents_current()
+pprint(public_documents_current)
+
+# Grab the suggested searches for the Health and Public Welfare.
+suggested_searches = federal_register_client.suggested_searches(
+    sections_ids=['health-and-public-welfare']
+)
+pprint(suggested_searches)
+
+# Grab the suggested searches for the Accountable Care Organization Slug.
+suggested_searches_by_ids = federal_register_client.suggested_searches_by_slug(
+    slug_id="accountable-care-organizations"
+)
+pprint(suggested_searches_by_ids)
+
+# Do a more complex search for documents.
+documents_search = federal_register_client.documents(
+    presidents=['donald-trump']
+)
 
 # Save to file.
 federal_register_client.save_to_json(
-    content=public_documents_current,
-    file_name='samples/responses/public_documents_current.jsonc'
+    content=documents_search,
+    file_name='samples/responses/documents_search.jsonc'
 )
-pprint(public_documents_current)
+pprint(documents_search)

@@ -112,8 +112,56 @@ class FederalRegisterSession(TestCase):
         # Make sure we have a response.
         self.assertIsNotNone(public_documents_current)
 
-        # And count is 2.
-        self.assertEqual(public_documents_current['count'], 100)
+        # And make sure we have some results, this should return more than 10.
+        self.assertGreaterEqual(public_documents_current['count'], 10)
+
+    def test_suggested_searches_endpoint(self):
+        """Test grabbing suggested searches."""
+
+        # Grab the Suggested Searches.
+        suggested_searches = self.federal_client.suggested_searches(
+            sections_ids=['health-and-public-welfare']
+        )
+
+        # Make sure we have a response.
+        self.assertIsNotNone(suggested_searches)
+
+        # And make sure the Slug matches.
+        self.assertEqual(
+            suggested_searches['health-and-public-welfare'][0]['slug'],
+            'health-care-reform'
+        )
+
+    def test_suggested_searches_by_id_endpoint(self):
+        """Test grabbing suggested searches using the Slug ID."""
+
+        # Grab the Suggested Searches by a Slug ID.
+        suggested_searches = self.federal_client.suggested_searches_by_slug(
+            slug_id="accountable-care-organizations"
+        )
+
+        # Make sure we have a response.
+        self.assertIsNotNone(suggested_searches)
+
+        # And make sure the Slug matches.
+        self.assertEqual(
+            suggested_searches['slug'],
+            'accountable-care-organizations'
+        )
+
+    def test_documents_detailed_search_endpoint(self):
+        """Test grabbing documents through a more complex query."""
+
+        # Grab presidential documents.
+        presidential_documents = self.federal_client.documents(
+            presidents=['donald-trump']
+        )
+
+        # Make sure we have a response.
+        self.assertIsNotNone(presidential_documents)
+
+        # And make sure we have some results.
+        self.assertGreaterEqual(presidential_documents['count'], 10)
 
     def tearDown(self) -> None:
         """Teardown the `FederalRegisterClient`."""
