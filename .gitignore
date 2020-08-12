@@ -130,5 +130,4 @@ dmypy.json
 
 # Alex Folder.
 .vscode/
-.config/
 configs/

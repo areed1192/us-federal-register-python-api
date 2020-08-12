@@ -1,4 +1,4 @@
-# Template Repo
+# Federal Register Python API Client
 
 ## Table of Contents
 
@@ -8,6 +8,10 @@
 - [Support These Projects](#support-these-projects)
 
 ## Overview
+
+This library is used to grab federal documents from the United States Federal Register.
+Additionally, it will help simplify the process of building requests for the different
+fields that can be returned for specific documents.
 
 ## Setup
 
@@ -27,10 +31,24 @@ you can use the library wherever you want.
 
 ## Usage
 
-Here is a simple example of using the `trade_console` library to grab the index
-files for specific quarter.
+Here is a simple example of using the `federal_register` library to grab a document
+using the document number.
 
 ```python
+from pprint import pprint
+from federal_register.client import FederalRegister
+
+# Initialize the client.
+federal_register_client = FederalRegister()
+
+# Grab a specific document.
+federal_document = federal_register_client.grab_document_by_id(
+    document_id='2020-17469',
+    fields='all'
+)
+
+# Print it out.
+pprint(federal_document)
 ```
 
 ## Support These Projects
@@ -40,6 +58,3 @@ Help support this project and future projects by donating to my [Patreon Page](h
 
 **YouTube:**
 If you'd like to watch more of my content, feel free to visit my YouTube channel [Sigma Coding](https://www.youtube.com/c/SigmaCoding).
-
-**Hire Me:**
-If you have a project, you think I can help you with feel free to reach out at [coding.sigma@gmail.com](mailto:coding.sigma@gmail.com?subject=[GitHub]%20Project%20Proposal) or fill out the [contract request form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAa__aAmF1hURFg5ODdaVTg1TldFVUhDVjJHWlRWRzhZRy4u)
