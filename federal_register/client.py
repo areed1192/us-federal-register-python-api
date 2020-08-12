@@ -182,3 +182,105 @@ class FederalRegister():
         )
 
         return response
+
+    def agency_by_id(self, agency_slug: str) -> dict:
+        """Fetch an agency by their Agency Slug.
+
+        Arguments:
+        ----
+        agency_slug (str): The Federal Register slug for the agency
+
+        Returns:
+        ----
+        dict: An agency resource with their details.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='agencies',
+            arguments=[agency_slug]
+        )
+
+        # Make the request and grab the response.
+        response = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return response
+
+    def public_inspection_document_by_id(self, document_id: str) -> dict:
+        """Fetches a public inspection document by their ID.
+
+        Arguments:
+        ----
+        document_id (str): Federal Register document number.
+
+        Returns:
+        ----
+        dict: A public document resource.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='public-inspection-documents',
+            arguments=[document_id]
+        )
+
+        # Make the request and grab the response.
+        response = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return response
+
+    def public_inspection_documents_by_id(self, document_ids: List[str]) -> dict:
+        """Fetches a collection of public inspection documents by their IDs.
+
+        Arguments:
+        ----
+        document_ids (List[str]): A list of Federal Register document numbers.
+
+        Returns:
+        ----
+        dict: A list of public document resources.
+        """
+
+        # Join the document IDs.
+        document_ids = ','.join(document_ids)
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='public-inspection-documents',
+            arguments=[document_ids]
+        )
+
+        # Make the request and grab the response.
+        response = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return response
+
+    def public_inspection_documents_current(self) -> dict:
+        """Fetch all the public inspection documents that are currently on public inspection.
+
+        Returns:
+        ----
+        dict: A list of public document resources.
+        """
+
+        # Build the URL.
+        full_url = self._build_url(
+            endpoint='public-inspection-documents/current'
+        )
+
+        # Make the request and grab the response.
+        response = self._make_request(
+            url=full_url,
+            method='get'
+        )
+
+        return response

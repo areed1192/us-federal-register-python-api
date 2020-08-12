@@ -24,10 +24,7 @@
           "slug": "internal-revenue-service"
         }
       ],
-      "agency_names": [
-        "Treasury Department",
-        "Internal Revenue Service"
-      ],
+      "agency_names": ["Treasury Department", "Internal Revenue Service"],
       "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2020/08/11/2020-17393.html",
       "cfr_references": [
         {
@@ -45,9 +42,7 @@
       "dates": "Effective date: These regulations are effective August 11, 2020.",
       "disposition_notes": null,
       "docket_id": "TD 9907",
-      "docket_ids": [
-        "TD 9907"
-      ],
+      "docket_ids": ["TD 9907"],
       "document_number": "2020-17393",
       "effective_on": "2020-08-11",
       "end_page": 48474,
@@ -77,9 +72,7 @@
       "regulation_id_number_info": {
         "1545-BP40": null
       },
-      "regulation_id_numbers": [
-        "1545-BP40"
-      ],
+      "regulation_id_numbers": ["1545-BP40"],
       "regulations_dot_gov_info": {
         "document_id": "IRS-2019-0056-0047",
         "comments_count": 0,
@@ -100,10 +93,7 @@
       "title": "Treatment of Payments to Charitable Entities in Return for Consideration",
       "toc_doc": "Treatment of Payments to Charitable Entities in Return for Consideration",
       "toc_subject": null,
-      "topics": [
-        "Income taxes",
-        "Reporting and recordkeeping requirements"
-      ],
+      "topics": ["Income taxes", "Reporting and recordkeeping requirements"],
       "type": "Rule",
       "volume": 85
     },
@@ -192,9 +182,7 @@
           "html_url": "https://www.federalregister.gov/regulations/2120-AA64/airworthiness-directives"
         }
       },
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
+      "regulation_id_numbers": ["2120-AA64"],
       "regulations_dot_gov_info": {
         "document_id": "FAA-2020-0684-0001",
         "comments_count": 0,
@@ -220,12 +208,7 @@
       "title": "Airworthiness Directives; The Boeing Company Airplanes",
       "toc_doc": "The Boeing Company Airplanes",
       "toc_subject": "Airworthiness Directives:\n",
-      "topics": [
-        "Air transportation",
-        "Aircraft",
-        "Aviation safety",
-        "Safety"
-      ],
+      "topics": ["Air transportation", "Aircraft", "Aviation safety", "Safety"],
       "type": "Rule",
       "volume": 85
     }

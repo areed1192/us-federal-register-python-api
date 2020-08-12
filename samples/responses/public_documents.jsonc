@@ -1,0 +1,71 @@
+{
+  "count": 2,
+  "results": [
+    {
+      "agencies": [
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "agency_names": ["Centers for Medicare & Medicaid Services"],
+      "docket_numbers": [],
+      "document_number": "2020-17127",
+      "editorial_note": null,
+      "filed_at": "2020-08-04T08:45:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/17/2020-17127/medicare-program-cy-2021-revisions-to-payment-policies-under-the-physician-fee-schedule-and-other",
+      "num_pages": 1353,
+      "pdf_file_name": "2020-17127_PI.pdf",
+      "pdf_file_size": 3308069,
+      "pdf_updated_at": "2020-08-04T08:45:46.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17127.pdf",
+      "publication_date": "2020-08-17",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/127.txt",
+      "subject_1": "Medicare Program:",
+      "subject_2": "CY 2021 Revisions to Payment Policies under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; etc.",
+      "subject_3": null,
+      "title": "Medicare Program: CY 2021 Revisions to Payment Policies under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; etc.",
+      "toc_doc": "CY 2021 Revisions to Payment Policies under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; etc.",
+      "toc_subject": "Medicare Program:",
+      "type": "Proposed Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "agency_names": ["National Oceanic and Atmospheric Administration"],
+      "docket_numbers": [],
+      "document_number": "2020-17520",
+      "editorial_note": null,
+      "filed_at": "2020-08-06T16:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/11/2020-17520/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-ocean-perch-in-the-west-yakutat-district",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17520_PI.pdf",
+      "pdf_file_size": 76098,
+      "pdf_updated_at": "2020-08-06T16:15:15.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17520.pdf",
+      "publication_date": "2020-08-11",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/520.txt",
+      "subject_1": "Fisheries of the Exclusive Economic Zone Off Alaska:",
+      "subject_2": "Pacific Ocean Perch in the West Yakutat District of the Gulf of Alaska",
+      "subject_3": null,
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska: Pacific Ocean Perch in the West Yakutat District of the Gulf of Alaska",
+      "toc_doc": "Pacific Ocean Perch in the West Yakutat District of the Gulf of Alaska",
+      "toc_subject": "Fisheries of the Exclusive Economic Zone Off Alaska:",
+      "type": "Rule"
+    }
+  ]
+}

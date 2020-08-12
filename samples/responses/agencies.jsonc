@@ -16,12 +16,8 @@
   },
   {
     "agency_url": "http://www.whitehouse.gov/administration/eop/oa",
-    "child_ids": [
-      317
-    ],
-    "child_slugs": [
-      "national-commission-on-fiscal-responsibility-and-reform"
-    ],
+    "child_ids": [317],
+    "child_slugs": ["national-commission-on-fiscal-responsibility-and-reform"],
     "description": "The Office of Administration (OA) was created by Reorganization Plan No. 1 of 1977 and Executive Order 12028. As a component of the Executive Office of the President, the Office's primary function is to provide common administrative and support services for the various agencies and offices of the EOP.\r\n\r\n",
     "id": 2,
     "logo": {
@@ -145,12 +141,8 @@
   },
   {
     "agency_url": "http://www.usaid.gov",
-    "child_ids": [
-      258
-    ],
-    "child_slugs": [
-      "international-development-cooperation-agency"
-    ],
+    "child_ids": [258],
+    "child_slugs": ["international-development-cooperation-agency"],
     "description": "The United States Agency for International Development (USAID) is an independent Federal agency established by 22 U.S.C. 6563 that receives overall foreign policy guidance from the Secretary of State. Its principal statutory authority is the Foreign Assistance Act of 1961, as amended (22 U.S.C. 2151 et seq.). \r\n\r\nUSAID serves as the focal point within the Government for economic matters affecting U.S. relations with developing countries. USAID administers international economic and humanitarian assistance programs. The Administrator is under the direct authority and foreign policy guidance of the Secretary of State.\r\n\r\nFor more information on the U.S. Agency for International Development\u2019s organization  and activities, please visit the agency homepage at http://www.usaid.gov/.\r\n\r\n\r\n",
     "id": 6,
     "logo": {
@@ -206,12 +198,8 @@
   },
   {
     "agency_url": "http://www.ams.usda.gov",
-    "child_ids": [
-      218
-    ],
-    "child_slugs": [
-      "grain-inspection-packers-and-stockyards-administration"
-    ],
+    "child_ids": [218],
+    "child_slugs": ["grain-inspection-packers-and-stockyards-administration"],
     "description": "The Agricultural Marketing Service (AMS) was established by the Secretary of Agriculture on April 2, 1972, under the authority of Reorganization Plan No. 2 of 1953 (5 U.S.C. app.) and other authorities. The Service administers standardization, grading, certification, market news, marketing orders, research and promotion, and regulatory programs.\r\n\r\nThe Agricultural Marketing Service includes five commodity programs--Dairy, Fruit and Vegetable, Livestock and Seed, Poultry, and Cotton and Tobacco. The programs provide standardization, grading and market news services for those commodities. They enforce such Federal Laws as the Perishable Agricultural Commodities Act and the Federal Seed Act. AMS commodity programs also oversee marketing agreements and orders, administer research and promotion programs, and purchase commodities for Federal food programs.\r\n\r\nThe AMS National Organic Program (NOP) develops, implements, and administers national production, handling, and labeling standards for organic agricultural products. The NOP also accredits the certifying agents (foreign and domestic) who inspect organic production and handling operations to certify that they meet USDA standards.\r\n\r\nThe AMS Science and Technology Program lends centralized scientific support to AMS programs, including laboratory analyses, laboratory quality assurance, coordination of scientific research conducted by other agencies for AMS, and statistical and mathematical consulting services.\r\n\r\nThe AMS Transportation and Marketing Program brings together a unique combination of traffic managers, engineers, rural policy analysts, international trade specialists, and agricultural marketing specialists to help solve problems of U.S. and world agricultural transportation., provides better quality products to the consumer at reasonable cost, improves market access for growers with small-to medium sized farms, and promotes regional economic development.\r\n\r\nAMS is part of the Marketing and Regulatory Programs (MRP) mission area. MRP agencies facilitate the domestic and international marketing of U.S. agricultural products and ensure the health and care of animals and plants. MRP agencies are active participants in setting national and international standards.\r\n",
     "id": 9,
     "logo": null,
@@ -1994,12 +1982,8 @@
   },
   {
     "agency_url": "http://www.ed.gov/",
-    "child_ids": [
-      600
-    ],
-    "child_slugs": [
-      "national-assessment-governing-board"
-    ],
+    "child_ids": [600],
+    "child_slugs": ["national-assessment-governing-board"],
     "description": "The Department of Education was established by the Department of Education Organization Act (Pub. L. 96-88) of October 17, 1979.\r\n\r\nThe U.S. Department of Education is the agency of the federal government that establishes policy for, administers and coordinates most federal assistance to education. It assists the president in executing his education policies for the nation and in implementing laws enacted by Congress. The Department's mission is to serve America's students\u2014to promote student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access.\r\n",
     "id": 126,
     "logo": {
@@ -2375,11 +2359,7 @@
   },
   {
     "agency_url": "http://www.whitehouse.gov/administration/eop",
-    "child_ids": [
-      2,
-      92,
-      93
-    ],
+    "child_ids": [2, 92, 93],
     "child_slugs": [
       "administration-office-executive-office-of-the-president",
       "council-on-environmental-quality",
@@ -2815,12 +2795,8 @@
   },
   {
     "agency_url": "http://www.flra.gov/",
-    "child_ids": [
-      190
-    ],
-    "child_slugs": [
-      "federal-service-impasses-panel"
-    ],
+    "child_ids": [190],
+    "child_slugs": ["federal-service-impasses-panel"],
     "description": "The Federal Labor Relations Authority oversees the Federal service labor-management relations program. It administers the law that protects the right of employees of the Federal Government to organize, bargain collectively, and participate through labor organizations of their own choosing in decisions affecting them. The Authority also ensures compliance with the statutory rights and obligations of Federal employees and the labor organizations that represent them in their dealings with Federal agencies.\r\n\r\nThe Federal Labor Relations Authority was created as an independent establishment by Reorganization Plan No. 2 of 1978 (5 U.S.C. app.), effective January 1, 1979, pursuant to Executive Order 12107 of December 28, 1978, to consolidate the central policymaking functions in Federal labor-management relations. Its duties and authority are specified in title VII (Federal Service Labor-Management Relations) of the Civil Service Reform Act of 1978 (5 U.S.C. 7101-7135).",
     "id": 176,
     "logo": {
@@ -3745,17 +3721,7 @@
   },
   {
     "agency_url": "http://www.dhs.gov/",
-    "child_ids": [
-      53,
-      166,
-      177,
-      329,
-      465,
-      494,
-      499,
-      501,
-      503
-    ],
+    "child_ids": [53, 166, 177, 329, 465, 494, 499, 501, 503],
     "child_slugs": [
       "coast-guard",
       "federal-emergency-management-agency",
@@ -3784,10 +3750,7 @@
   },
   {
     "agency_url": "http://portal.hud.gov/",
-    "child_ids": [
-      173,
-      216
-    ],
+    "child_ids": [173, 216],
     "child_slugs": [
       "federal-housing-enterprise-oversight-office",
       "government-national-mortgage-association"
@@ -4425,12 +4388,8 @@
   },
   {
     "agency_url": "http://www.ojp.usdoj.gov/",
-    "child_ids": [
-      523
-    ],
-    "child_slugs": [
-      "victims-of-crime-office"
-    ],
+    "child_ids": [523],
+    "child_slugs": ["victims-of-crime-office"],
     "description": "The Office of Justice Programs (OJP) provides innovative leadership to federal, state, local, and tribal justice systems, by disseminating state-of-the art knowledge and practices across America, and providing grants for the implementation of these crime fighting strategies. Because most of the responsibility for crime control and prevention falls to law enforcement officers in states, cities, and neighborhoods, the federal government can be effective in these areas only to the extent that it can enter into partnerships with these officers. Therefore, OJP does not directly carry out law enforcement and justice activities. Instead, OJP works in partnership with the justice community to identify the most pressing crime-related challenges confronting the justice system and to provide information, training, coordination, and innovative strategies and approaches for addressing these challenges.",
     "id": 269,
     "logo": null,
@@ -4582,11 +4541,7 @@
   },
   {
     "agency_url": "http://www.loc.gov/index.html",
-    "child_ids": [
-      87,
-      88,
-      89
-    ],
+    "child_ids": [87, 88, 89],
     "child_slugs": [
       "copyright-office-library-of-congress",
       "copyright-royalty-board",
@@ -4624,12 +4579,8 @@
   },
   {
     "agency_url": "http://www.whitehouse.gov/omb/",
-    "child_ids": [
-      184
-    ],
-    "child_slugs": [
-      "federal-procurement-policy-office"
-    ],
+    "child_ids": [184],
+    "child_slugs": ["federal-procurement-policy-office"],
     "description": "The Office of Management and Budget (OMB), formerly the Bureau of the Budget, was established in the Executive Office of the President pursuant to Reorganization Plan No. 1 of 1939 (5 U.S.C. app.).\r\n\r\nThe Office of Management and Budget evaluates, formulates, and coordinates management procedures and program objectives within and among Federal departments and agencies. It also controls the administration of the Federal budget, while routinely providing the President with recommendations regarding budget proposals and relevant legislative enactments.\r\n\r\n",
     "id": 280,
     "logo": null,
@@ -4922,12 +4873,7 @@
   },
   {
     "agency_url": "http://www.archives.gov/",
-    "child_ids": [
-      186,
-      243,
-      346,
-      592
-    ],
+    "child_ids": [186, 243, 346, 592],
     "child_slugs": [
       "federal-register-office",
       "information-security-oversight-office",
@@ -5320,12 +5266,7 @@
   },
   {
     "agency_url": "",
-    "child_ids": [
-      588,
-      589,
-      591,
-      598
-    ],
+    "child_ids": [588, 589, 591, 598],
     "child_slugs": [
       "national-endowment-for-the-arts",
       "national-endowment-for-the-humanities",
@@ -5808,12 +5749,8 @@
   },
   {
     "agency_url": null,
-    "child_ids": [
-      584
-    ],
-    "child_slugs": [
-      "first-responder-network-authority"
-    ],
+    "child_ids": [584],
+    "child_slugs": ["first-responder-network-authority"],
     "description": "The National Telecommunications and Information Administration (NTIA) was established in 1978 by Reorganization Plan No. 1 of 1977 (5 U.S.C. app.) and Executive Order 12046 of March 27, 1978 (3 CFR, 1978 Comp., p. 158), by combining the Office of Telecommunications Policy of the Executive Office of the President and the Office of Telecommunications of the Department of Commerce to form a new agency reporting to the Secretary of Commerce. NTIA operates under the authority of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901).\r\rNTIA's principal responsibilities and functions include:\r\r--serving as the principal executive branch adviser to the President on telecommunications and information policy;\r--developing and presenting U.S. plans and policies at international communications conferences and related meetings;\r--prescribing policies for and managing Federal use of the radio frequency spectrum;\r--serving as the principal Federal telecommunications research and engineering laboratory, through NTIA's Institute for Telecommunication \rSciences, headquartered in Boulder, CO;\r--administering Federal programs to assist telecommunication facilities, public safety organizations, and the general public with the transition to digital broadcasting;\r--providing grants through the Broadband Technology Opportunities \rProgram to increase broadband accessibility in underserved areas of the \rUnited States; and\r--providing grants through the Public Telecommunications Facilities \rProgram to extend delivery or public telecommunications services to U.S. citizens, to increase ownership and management by women and minorities, and to strengthen the capabilities of existing public broadcasting stations to provide telecommunications services.",
     "id": 373,
     "logo": null,

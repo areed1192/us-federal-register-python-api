@@ -1,0 +1,3716 @@
+{
+  "count": 100,
+  "results": [
+    {
+      "agencies": [
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "agency_names": [
+        "Centers for Medicare & Medicaid Services"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17086",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-04T08:45:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17086/medicare-program-changes-to-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17086",
+      "num_pages": 785,
+      "pdf_file_name": "2020-17086_PI.pdf",
+      "pdf_file_size": 2036584,
+      "pdf_updated_at": "2020-08-04T08:45:40.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17086.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/086.txt",
+      "subject_1": "Medicare Program:",
+      "subject_2": "Changes to Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Addition of New Categories for Hospital Outpatient Department Prior Authorization Process; etc.",
+      "subject_3": null,
+      "title": "Medicare Program: Changes to Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Addition of New Categories for Hospital Outpatient Department Prior Authorization Process; etc.",
+      "toc_doc": "Changes to Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems and Quality Reporting Programs; Addition of New Categories for Hospital Outpatient Department Prior Authorization Process; etc.",
+      "toc_subject": "Medicare Program:",
+      "type": "Proposed Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "agency_names": [
+        "Centers for Medicare & Medicaid Services"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17127",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-04T08:45:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/17/2020-17127/medicare-program-cy-2021-revisions-to-payment-policies-under-the-physician-fee-schedule-and-other",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17127",
+      "num_pages": 1353,
+      "pdf_file_name": "2020-17127_PI.pdf",
+      "pdf_file_size": 3308069,
+      "pdf_updated_at": "2020-08-04T08:45:46.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17127.pdf",
+      "publication_date": "2020-08-17",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/127.txt",
+      "subject_1": "Medicare Program:",
+      "subject_2": "CY 2021 Revisions to Payment Policies under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; etc.",
+      "subject_3": null,
+      "title": "Medicare Program: CY 2021 Revisions to Payment Policies under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; etc.",
+      "toc_doc": "CY 2021 Revisions to Payment Policies under the Physician Fee Schedule and Other Changes to Part B Payment Policies; Medicare Shared Savings Program Requirements; etc.",
+      "toc_subject": "Medicare Program:",
+      "type": "Proposed Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "agency_names": [
+        "Internal Revenue Service"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17108",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-06T16:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/14/2020-17108/guidance-under-section-1061",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17108",
+      "num_pages": 162,
+      "pdf_file_name": "2020-17108_PI.pdf",
+      "pdf_file_size": 404379,
+      "pdf_updated_at": "2020-08-06T16:15:14.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17108.pdf",
+      "publication_date": "2020-08-14",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/108.txt",
+      "subject_1": "Guidance under Section 1061",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Guidance under Section 1061",
+      "toc_doc": "Guidance under Section 1061",
+      "toc_subject": "",
+      "type": "Proposed Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Education Department",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "slug": "education-department"
+        }
+      ],
+      "agency_names": [
+        "Education Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-14589",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-07T16:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/14/2020-14589/federal-perkins-loan-program-federal-work-study-programs-federal-supplemental-educational",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-14589",
+      "num_pages": 178,
+      "pdf_file_name": "2020-14589_PI.pdf",
+      "pdf_file_size": 429135,
+      "pdf_updated_at": "2020-08-07T16:15:12.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-14589.pdf",
+      "publication_date": "2020-08-14",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/014/589.txt",
+      "subject_1": "Federal Perkins Loan Program, Federal Work-Study Programs, Federal Supplemental Educational Opportunity Grant Program, Federal Family Education Loan Program, William D. Ford Federal Direct Loan Program, National Direct Student Loan Program, Teacher Education Assistance for College and Higher Education Grant Program, Federal Pell Grant Program, Leveraging Educational Assistance Partnership Program, and Gaining Early Awareness and Readiness for Undergraduate Programs",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Federal Perkins Loan Program, Federal Work-Study Programs, Federal Supplemental Educational Opportunity Grant Program, Federal Family Education Loan Program, William D. Ford Federal Direct Loan Program, National Direct Student Loan Program, Teacher Education Assistance for College and Higher Education Grant Program, Federal Pell Grant Program, Leveraging Educational Assistance Partnership Program, and Gaining Early Awareness and Readiness for Undergraduate Programs",
+      "toc_doc": "Federal Perkins Loan Program, Federal Work-Study Programs, Federal Supplemental Educational Opportunity Grant Program, Federal Family Education Loan Program, William D. Ford Federal Direct Loan Program, National Direct Student Loan Program, Teacher Education Assistance for College and Higher Education Grant Program, Federal Pell Grant Program, Leveraging Educational Assistance Partnership Program, and Gaining Early Awareness and Readiness for Undergraduate Programs",
+      "toc_subject": "",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "agency_names": [
+        "Federal Aviation Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17089",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-10T08:45:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17089/special-conditions-leonardo-spa-model-aw189-search-and-rescue-automatic-flight-control-system",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17089",
+      "num_pages": 18,
+      "pdf_file_name": "2020-17089_PI.pdf",
+      "pdf_file_size": 127545,
+      "pdf_updated_at": "2020-08-10T09:32:11.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17089.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/089.txt",
+      "subject_1": "Special Conditions:",
+      "subject_2": "Leonardo S.p.A. Model AW189, Search and Rescue Automatic Flight Control System",
+      "subject_3": null,
+      "title": "Special Conditions: Leonardo S.p.A. Model AW189, Search and Rescue Automatic Flight Control System",
+      "toc_doc": "Leonardo S.p.A. Model AW189, Search and Rescue Automatic Flight Control System",
+      "toc_subject": "Special Conditions:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "agency_names": [
+        "Centers for Medicare & Medicaid Services"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17553",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-10T16:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/13/2020-17553/basic-health-program-federal-funding-methodology-for-program-year-2021",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17553",
+      "num_pages": 60,
+      "pdf_file_name": "2020-17553_PI.pdf",
+      "pdf_file_size": 248197,
+      "pdf_updated_at": "2020-08-10T16:15:15.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17553.pdf",
+      "publication_date": "2020-08-13",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/553.txt",
+      "subject_1": "Basic Health Program:",
+      "subject_2": "Federal Funding Methodology for Program Year 2021",
+      "subject_3": null,
+      "title": "Basic Health Program: Federal Funding Methodology for Program Year 2021",
+      "toc_doc": "Federal Funding Methodology for Program Year 2021",
+      "toc_subject": "Basic Health Program:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "agency_names": [
+        "Environmental Protection Agency"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-12776",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-12776/national-emission-standards-for-hazardous-air-pollutants-miscellaneous-organic-chemical",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-12776",
+      "num_pages": 308,
+      "pdf_file_name": "2020-12776_PI.pdf",
+      "pdf_file_size": 697573,
+      "pdf_updated_at": "2020-08-11T08:45:13.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-12776.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/012/776.txt",
+      "subject_1": "National Emission Standards for Hazardous Air Pollutants:",
+      "subject_2": "Miscellaneous Organic Chemical Manufacturing Residual Risk and Technology Review",
+      "subject_3": null,
+      "title": "National Emission Standards for Hazardous Air Pollutants: Miscellaneous Organic Chemical Manufacturing Residual Risk and Technology Review",
+      "toc_doc": "Miscellaneous Organic Chemical Manufacturing Residual Risk and Technology Review",
+      "toc_subject": "National Emission Standards for Hazardous Air Pollutants:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "agency_names": [
+        "Environmental Protection Agency"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-14408",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-14408/air-quality-state-implementation-plans-approvals-and-promulgations-texas-regional-haze-and",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-14408",
+      "num_pages": 189,
+      "pdf_file_name": "2020-14408_PI.pdf",
+      "pdf_file_size": 533263,
+      "pdf_updated_at": "2020-08-11T08:45:13.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-14408.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/014/408.txt",
+      "subject_1": "Air Quality State Implementation Plans; Approvals and Promulgations:",
+      "subject_2": "Texas; Regional Haze and Interstate Visibility Transport Federal Implementation Plan",
+      "subject_3": null,
+      "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Regional Haze and Interstate Visibility Transport Federal Implementation Plan",
+      "toc_doc": "Texas; Regional Haze and Interstate Visibility Transport Federal Implementation Plan",
+      "toc_subject": "Air Quality State Implementation Plans; Approvals and Promulgations:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "agency_names": [
+        "Food and Drug Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-15826",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-15826/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-propionate",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-15826",
+      "num_pages": 3,
+      "pdf_file_name": "2020-15826_PI.pdf",
+      "pdf_file_size": 55445,
+      "pdf_updated_at": "2020-08-11T08:45:13.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-15826.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/015/826.txt",
+      "subject_1": "Food Additives Permitted in Feed and Drinking Water of Animals:",
+      "subject_2": "Chromium Propionate",
+      "subject_3": null,
+      "title": "Food Additives Permitted in Feed and Drinking Water of Animals: Chromium Propionate",
+      "toc_doc": "Chromium Propionate",
+      "toc_subject": "Food Additives Permitted in Feed and Drinking Water of Animals:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "agency_names": [
+        "Internal Revenue Service"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-15842",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-15842/rules-regarding-certain-hybrid-arrangements-correcting-amendment",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-15842",
+      "num_pages": 4,
+      "pdf_file_name": "2020-15842_PI.pdf",
+      "pdf_file_size": 78332,
+      "pdf_updated_at": "2020-08-11T08:45:14.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-15842.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/015/842.txt",
+      "subject_1": "Rules Regarding Certain Hybrid Arrangements; Correcting Amendment",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Rules Regarding Certain Hybrid Arrangements; Correcting Amendment",
+      "toc_doc": "Rules Regarding Certain Hybrid Arrangements; Correcting Amendment",
+      "toc_subject": "",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "agency_names": [
+        "Federal Aviation Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-16280",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-16280/special-conditions-aerospace-design-and-compliance-llc-bombardier-inc-model-cl-600-2b19-airplane",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-16280",
+      "num_pages": 7,
+      "pdf_file_name": "2020-16280_PI.pdf",
+      "pdf_file_size": 86177,
+      "pdf_updated_at": "2020-08-11T08:45:14.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-16280.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/016/280.txt",
+      "subject_1": "Special Conditions:",
+      "subject_2": "Aerospace Design and Compliance, LLC, Bombardier, Inc. Model CL-600-2B19 Airplane; Installation of a Therapeutic Oxygen System for Medical Use",
+      "subject_3": null,
+      "title": "Special Conditions: Aerospace Design and Compliance, LLC, Bombardier, Inc. Model CL-600-2B19 Airplane; Installation of a Therapeutic Oxygen System for Medical Use",
+      "toc_doc": "Aerospace Design and Compliance, LLC, Bombardier, Inc. Model CL-600-2B19 Airplane; Installation of a Therapeutic Oxygen System for Medical Use",
+      "toc_subject": "Special Conditions:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "agency_names": [
+        "Environmental Protection Agency"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-16452",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-16452/pesticide-tolerances-pethoxamid",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-16452",
+      "num_pages": 20,
+      "pdf_file_name": "2020-16452_PI.pdf",
+      "pdf_file_size": 129552,
+      "pdf_updated_at": "2020-08-11T08:45:15.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-16452.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/016/452.txt",
+      "subject_1": "Pesticide Tolerances:",
+      "subject_2": "Pethoxamid",
+      "subject_3": null,
+      "title": "Pesticide Tolerances: Pethoxamid",
+      "toc_doc": "Pethoxamid",
+      "toc_subject": "Pesticide Tolerances:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "agency_names": [
+        "Environmental Protection Agency"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-16456",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-16456/pesticide-tolerances-nitrapyrin",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-16456",
+      "num_pages": 12,
+      "pdf_file_name": "2020-16456_PI.pdf",
+      "pdf_file_size": 123895,
+      "pdf_updated_at": "2020-08-11T08:45:15.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-16456.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/016/456.txt",
+      "subject_1": "Pesticide Tolerances:",
+      "subject_2": "Nitrapyrin",
+      "subject_3": null,
+      "title": "Pesticide Tolerances: Nitrapyrin",
+      "toc_doc": "Nitrapyrin",
+      "toc_subject": "Pesticide Tolerances:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "MANAGEMENT AND BUDGET OFFICE",
+          "name": "Management and Budget Office",
+          "id": 280,
+          "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
+          "slug": "management-and-budget-office"
+        }
+      ],
+      "agency_names": [
+        "Management and Budget Office"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17468",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/13/2020-17468/guidance-grants-and-agreements",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17468",
+      "num_pages": 330,
+      "pdf_file_name": "2020-17468_PI.pdf",
+      "pdf_file_size": 684489,
+      "pdf_updated_at": "2020-08-11T08:45:16.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17468.pdf",
+      "publication_date": "2020-08-13",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/468.txt",
+      "subject_1": "Guidance:",
+      "subject_2": "Grants and Agreements",
+      "subject_3": null,
+      "title": "Guidance: Grants and Agreements",
+      "toc_doc": "Grants and Agreements",
+      "toc_subject": "Guidance:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "agency_names": [
+        "Food and Drug Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17542",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17542/agency-information-collection-activities-proposals-submissions-and-approvals-infant-formula-recall",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17542",
+      "num_pages": 6,
+      "pdf_file_name": "2020-17542_PI.pdf",
+      "pdf_file_size": 92482,
+      "pdf_updated_at": "2020-08-11T08:45:16.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17542.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/542.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Infant Formula Recall Regulations",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Infant Formula Recall Regulations",
+      "toc_doc": "Infant Formula Recall Regulations",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Energy Department",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "slug": "energy-department"
+        }
+      ],
+      "agency_names": [
+        "Energy Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17544",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17544/request-for-information-hydrogen-and-fuel-cell-technologies-office-research-and-development-strategy",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17544",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17544_PI.pdf",
+      "pdf_file_size": 86536,
+      "pdf_updated_at": "2020-08-11T08:45:16.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17544.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/544.txt",
+      "subject_1": "Request for Information:",
+      "subject_2": "Hydrogen and Fuel Cell Technologies Office Research and Development Strategy",
+      "subject_3": null,
+      "title": "Request for Information: Hydrogen and Fuel Cell Technologies Office Research and Development Strategy",
+      "toc_doc": "Hydrogen and Fuel Cell Technologies Office Research and Development Strategy",
+      "toc_subject": "Request for Information:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Education Department",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "slug": "education-department"
+        }
+      ],
+      "agency_names": [
+        "Education Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17545",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17545/agency-information-collection-activities-proposals-submissions-and-approvals-student-support",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17545",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17545_PI.pdf",
+      "pdf_file_size": 85612,
+      "pdf_updated_at": "2020-08-11T08:45:17.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17545.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/545.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Student Support Services Annual Performance Report",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Student Support Services Annual Performance Report",
+      "toc_doc": "Student Support Services Annual Performance Report",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Education Department",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "slug": "education-department"
+        }
+      ],
+      "agency_names": [
+        "Education Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17546",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17546/agency-information-collection-activities-proposals-submissions-and-approvals-veterans-upward-bound",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17546",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17546_PI.pdf",
+      "pdf_file_size": 90668,
+      "pdf_updated_at": "2020-08-11T08:45:17.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17546.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/546.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Veterans Upward Bound Program Annual Performance Report",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Veterans Upward Bound Program Annual Performance Report",
+      "toc_doc": "Veterans Upward Bound Program Annual Performance Report",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Centers for Disease Control and Prevention",
+          "name": "Centers for Disease Control and Prevention",
+          "id": 44,
+          "url": "https://www.federalregister.gov/agencies/centers-for-disease-control-and-prevention",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/44",
+          "slug": "centers-for-disease-control-and-prevention"
+        }
+      ],
+      "agency_names": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17552",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17552/meetings-board-of-scientific-counselors-national-institute-for-occupational-safety-and-health",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17552",
+      "num_pages": 6,
+      "pdf_file_name": "2020-17552_PI.pdf",
+      "pdf_file_size": 109175,
+      "pdf_updated_at": "2020-08-11T08:45:17.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17552.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/552.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Board of Scientific Counselors, National Institute for Occupational Safety and Health",
+      "subject_3": null,
+      "title": "Meetings: Board of Scientific Counselors, National Institute for Occupational Safety and Health",
+      "toc_doc": "Board of Scientific Counselors, National Institute for Occupational Safety and Health",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Nuclear Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17554",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17554/license-amendment-application-withdrawal-exelon-generation-company-llc-james-a-fitzpatrick-nuclear",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17554",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17554_PI.pdf",
+      "pdf_file_size": 96399,
+      "pdf_updated_at": "2020-08-11T08:45:17.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17554.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/554.txt",
+      "subject_1": "License Amendment Application; Withdrawal:",
+      "subject_2": "Exelon Generation Company, LLC; James A. FitzPatrick Nuclear Power Plant",
+      "subject_3": null,
+      "title": "License Amendment Application; Withdrawal: Exelon Generation Company, LLC; James A. FitzPatrick Nuclear Power Plant",
+      "toc_doc": "Exelon Generation Company, LLC; James A. FitzPatrick Nuclear Power Plant",
+      "toc_subject": "License Amendment Application; Withdrawal:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Motor Carrier Safety Administration",
+          "name": "Federal Motor Carrier Safety Administration",
+          "id": 181,
+          "url": "https://www.federalregister.gov/agencies/federal-motor-carrier-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/181",
+          "slug": "federal-motor-carrier-safety-administration"
+        }
+      ],
+      "agency_names": [
+        "Federal Motor Carrier Safety Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17555",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17555/qualification-of-drivers-exemption-applications-vision",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17555",
+      "num_pages": 7,
+      "pdf_file_name": "2020-17555_PI.pdf",
+      "pdf_file_size": 95708,
+      "pdf_updated_at": "2020-08-11T08:45:18.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17555.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/555.txt",
+      "subject_1": "Qualification of Drivers; Exemption Applications:",
+      "subject_2": "Vision",
+      "subject_3": null,
+      "title": "Qualification of Drivers; Exemption Applications: Vision",
+      "toc_doc": "Vision",
+      "toc_subject": "Qualification of Drivers; Exemption Applications:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17556",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17556/self-regulatory-organizations-proposed-rule-changes-nyse-american-llc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17556",
+      "num_pages": 15,
+      "pdf_file_name": "2020-17556_PI.pdf",
+      "pdf_file_size": 90770,
+      "pdf_updated_at": "2020-08-11T08:45:18.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17556.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/556.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "NYSE American, LLC",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: NYSE American, LLC",
+      "toc_doc": "NYSE American, LLC",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17557",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17557/self-regulatory-organizations-proposed-rule-changes-ice-clear-credit-llc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17557",
+      "num_pages": 12,
+      "pdf_file_name": "2020-17557_PI.pdf",
+      "pdf_file_size": 65545,
+      "pdf_updated_at": "2020-08-11T08:45:18.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17557.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/557.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "ICE Clear Credit, LLC",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: ICE Clear Credit, LLC",
+      "toc_doc": "ICE Clear Credit, LLC",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17558",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17558/self-regulatory-organizations-proposed-rule-changes-cboe-exchange-inc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17558",
+      "num_pages": 10,
+      "pdf_file_name": "2020-17558_PI.pdf",
+      "pdf_file_size": 92723,
+      "pdf_updated_at": "2020-08-11T08:45:19.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17558.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/558.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "Cboe Exchange, Inc.",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe Exchange, Inc.",
+      "toc_doc": "Cboe Exchange, Inc.",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17559",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17559/self-regulatory-organizations-proposed-rule-changes-cboe-c2-exchange-inc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17559",
+      "num_pages": 10,
+      "pdf_file_name": "2020-17559_PI.pdf",
+      "pdf_file_size": 92899,
+      "pdf_updated_at": "2020-08-11T08:45:19.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17559.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/559.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "Cboe C2 Exchange, Inc.",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe C2 Exchange, Inc.",
+      "toc_doc": "Cboe C2 Exchange, Inc.",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17560",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17560/self-regulatory-organizations-proposed-rule-changes-cboe-bzx-exchange-inc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17560",
+      "num_pages": 10,
+      "pdf_file_name": "2020-17560_PI.pdf",
+      "pdf_file_size": 93407,
+      "pdf_updated_at": "2020-08-11T08:45:19.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17560.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/560.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "Cboe BZX Exchange, Inc.",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe BZX Exchange, Inc.",
+      "toc_doc": "Cboe BZX Exchange, Inc.",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17561",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17561/self-regulatory-organizations-proposed-rule-changes-cboe-edgx-exchange-inc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17561",
+      "num_pages": 10,
+      "pdf_file_name": "2020-17561_PI.pdf",
+      "pdf_file_size": 93104,
+      "pdf_updated_at": "2020-08-11T08:45:20.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17561.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/561.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "Cboe EDGX Exchange, Inc.",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: Cboe EDGX Exchange, Inc.",
+      "toc_doc": "Cboe EDGX Exchange, Inc.",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17562",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17562/self-regulatory-organizations-proposed-rule-changes-new-york-stock-exchange-llc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17562",
+      "num_pages": 4,
+      "pdf_file_name": "2020-17562_PI.pdf",
+      "pdf_file_size": 44445,
+      "pdf_updated_at": "2020-08-11T08:45:20.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17562.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/562.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "New York Stock Exchange, LLC",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: New York Stock Exchange, LLC",
+      "toc_doc": "New York Stock Exchange, LLC",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17563",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17563/self-regulatory-organizations-proposed-rule-changes-new-york-stock-exchange-llc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17563",
+      "num_pages": 11,
+      "pdf_file_name": "2020-17563_PI.pdf",
+      "pdf_file_size": 73665,
+      "pdf_updated_at": "2020-08-11T08:45:20.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17563.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/563.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "New York Stock Exchange, LLC",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: New York Stock Exchange, LLC",
+      "toc_doc": "New York Stock Exchange, LLC",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "agency_names": [
+        "Securities and Exchange Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17564",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17564/self-regulatory-organizations-proposed-rule-changes-miax-pearl-llc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17564",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17564_PI.pdf",
+      "pdf_file_size": 44024,
+      "pdf_updated_at": "2020-08-11T08:45:20.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17564.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/564.txt",
+      "subject_1": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "subject_2": "MIAX PEARL, LLC",
+      "subject_3": null,
+      "title": "Self-Regulatory Organizations; Proposed Rule Changes: MIAX PEARL, LLC",
+      "toc_doc": "MIAX PEARL, LLC",
+      "toc_subject": "Self-Regulatory Organizations; Proposed Rule Changes:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Communications Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17565",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17565/meetings-deletion-of-items",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17565",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17565_PI.pdf",
+      "pdf_file_size": 68899,
+      "pdf_updated_at": "2020-08-11T08:45:21.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17565.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/565.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Deletion of Items",
+      "subject_3": null,
+      "title": "Meetings: Deletion of Items",
+      "toc_doc": "Deletion of Items",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "agency_names": [
+        "Federal Aviation Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17566",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17566/request-to-release-airport-property-land-disposal-at-the-liberal-mid-america-regional-airport",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17566",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17566_PI.pdf",
+      "pdf_file_size": 73695,
+      "pdf_updated_at": "2020-08-11T08:45:21.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17566.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/566.txt",
+      "subject_1": "Request to Release Airport Property:",
+      "subject_2": "Land Disposal at the Liberal Mid-America Regional Airport, Liberal, KS",
+      "subject_3": null,
+      "title": "Request to Release Airport Property: Land Disposal at the Liberal Mid-America Regional Airport, Liberal, KS",
+      "toc_doc": "Land Disposal at the Liberal Mid-America Regional Airport, Liberal, KS",
+      "toc_subject": "Request to Release Airport Property:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Personnel Management Office",
+          "name": "Personnel Management Office",
+          "id": 406,
+          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
+          "slug": "personnel-management-office"
+        }
+      ],
+      "agency_names": [
+        "Personnel Management Office"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17569",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17569/submission-for-review-we-need-information-about-your-missing-payment",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17569",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17569_PI.pdf",
+      "pdf_file_size": 67266,
+      "pdf_updated_at": "2020-08-11T08:45:21.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17569.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/569.txt",
+      "subject_1": "Submission for Review:",
+      "subject_2": "We Need Information about Your Missing Payment",
+      "subject_3": null,
+      "title": "Submission for Review: We Need Information about Your Missing Payment",
+      "toc_doc": "We Need Information about Your Missing Payment",
+      "toc_subject": "Submission for Review:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Personnel Management Office",
+          "name": "Personnel Management Office",
+          "id": 406,
+          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
+          "slug": "personnel-management-office"
+        }
+      ],
+      "agency_names": [
+        "Personnel Management Office"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17570",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17570/submission-for-review-we-need-important-information-about-your-eligibility-for-social-security",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17570",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17570_PI.pdf",
+      "pdf_file_size": 75565,
+      "pdf_updated_at": "2020-08-11T08:45:21.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17570.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/570.txt",
+      "subject_1": "Submission for Review:",
+      "subject_2": "We Need Important Information about Your Eligibility for Social Security Disability Benefits",
+      "subject_3": null,
+      "title": "Submission for Review: We Need Important Information about Your Eligibility for Social Security Disability Benefits",
+      "toc_doc": "We Need Important Information about Your Eligibility for Social Security Disability Benefits",
+      "toc_subject": "Submission for Review:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Personnel Management Office",
+          "name": "Personnel Management Office",
+          "id": 406,
+          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
+          "slug": "personnel-management-office"
+        }
+      ],
+      "agency_names": [
+        "Personnel Management Office"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17571",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17571/submission-for-review-letter-reply-to-request-for-information-former-spouse-survivor-annuity",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17571",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17571_PI.pdf",
+      "pdf_file_size": 73776,
+      "pdf_updated_at": "2020-08-11T08:45:22.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17571.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/571.txt",
+      "subject_1": "Submission for Review:",
+      "subject_2": "Letter Reply to Request for Information, Former Spouse Survivor Annuity Election, Information on Electing a Survivor Annuity for Your Former Spouse",
+      "subject_3": null,
+      "title": "Submission for Review: Letter Reply to Request for Information, Former Spouse Survivor Annuity Election, Information on Electing a Survivor Annuity for Your Former Spouse",
+      "toc_doc": "Letter Reply to Request for Information, Former Spouse Survivor Annuity Election, Information on Electing a Survivor Annuity for Your Former Spouse",
+      "toc_subject": "Submission for Review:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "NATIONAL SCIENCE FOUNDATION",
+          "name": "National Science Foundation",
+          "id": 366,
+          "url": "https://www.federalregister.gov/agencies/national-science-foundation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/366",
+          "slug": "national-science-foundation"
+        }
+      ],
+      "agency_names": [
+        "National Science Foundation"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17573",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17573/agency-information-collection-activities-proposals-submissions-and-approvals-improving-customer",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17573",
+      "num_pages": 6,
+      "pdf_file_name": "2020-17573_PI.pdf",
+      "pdf_file_size": 96196,
+      "pdf_updated_at": "2020-08-11T08:45:22.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17573.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/573.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Improving Customer Experience",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Improving Customer Experience",
+      "toc_doc": "Improving Customer Experience",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Highway Administration",
+          "name": "Federal Highway Administration",
+          "id": 170,
+          "url": "https://www.federalregister.gov/agencies/federal-highway-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/170",
+          "slug": "federal-highway-administration"
+        }
+      ],
+      "agency_names": [
+        "Federal Highway Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17574",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17574/environmental-impact-statements-availability-etc-travis-county-tx",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17574",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17574_PI.pdf",
+      "pdf_file_size": 72460,
+      "pdf_updated_at": "2020-08-11T08:45:22.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17574.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/574.txt",
+      "subject_1": "Environmental Impact Statements; Availability, etc.:",
+      "subject_2": "Travis County, TX",
+      "subject_3": null,
+      "title": "Environmental Impact Statements; Availability, etc.: Travis County, TX",
+      "toc_doc": "Travis County, TX",
+      "toc_subject": "Environmental Impact Statements; Availability, etc.:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "agency_names": [
+        "Food and Drug Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17575",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17575/guidance-male-breast-cancer-developing-drugs-for-treatment",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17575",
+      "num_pages": 7,
+      "pdf_file_name": "2020-17575_PI.pdf",
+      "pdf_file_size": 70928,
+      "pdf_updated_at": "2020-08-11T08:45:23.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17575.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/575.txt",
+      "subject_1": "Guidance:",
+      "subject_2": "Male Breast Cancer: Developing Drugs for Treatment",
+      "subject_3": null,
+      "title": "Guidance: Male Breast Cancer: Developing Drugs for Treatment",
+      "toc_doc": "Male Breast Cancer: Developing Drugs for Treatment",
+      "toc_subject": "Guidance:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "agency_names": [
+        "Centers for Medicare & Medicaid Services"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17577",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17577/medicare-and-medicaid-programs-quarterly-listing-of-program-issuances-april-through-june-2020",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17577",
+      "num_pages": 16,
+      "pdf_file_name": "2020-17577_PI.pdf",
+      "pdf_file_size": 143428,
+      "pdf_updated_at": "2020-08-11T08:45:23.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17577.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/577.txt",
+      "subject_1": "Medicare and Medicaid Programs:",
+      "subject_2": "Quarterly Listing of Program Issuances: April through June 2020",
+      "subject_3": null,
+      "title": "Medicare and Medicaid Programs: Quarterly Listing of Program Issuances: April through June 2020",
+      "toc_doc": "Quarterly Listing of Program Issuances: April through June 2020",
+      "toc_subject": "Medicare and Medicaid Programs:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "agency_names": [
+        "Fish and Wildlife Service"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17579",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17579/proposed-habitat-conservation-plan-for-the-taylors-checkerspot-butterfly-and-three-subspecies-of-the",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17579",
+      "num_pages": 6,
+      "pdf_file_name": "2020-17579_PI.pdf",
+      "pdf_file_size": 100751,
+      "pdf_updated_at": "2020-08-11T08:45:24.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17579.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/579.txt",
+      "subject_1": "Proposed Habitat Conservation Plan for the Taylor's Checkerspot Butterfly and Three Subspecies of the Mazama Pocket Gopher, Puget Sound Energy:",
+      "subject_2": "Categorical Exclusion",
+      "subject_3": null,
+      "title": "Proposed Habitat Conservation Plan for the Taylor's Checkerspot Butterfly and Three Subspecies of the Mazama Pocket Gopher, Puget Sound Energy: Categorical Exclusion",
+      "toc_doc": "Categorical Exclusion",
+      "toc_subject": "Proposed Habitat Conservation Plan for the Taylor's Checkerspot Butterfly and Three Subspecies of the Mazama Pocket Gopher, Puget Sound Energy:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Justice Department",
+          "name": "Justice Department",
+          "id": 268,
+          "url": "https://www.federalregister.gov/agencies/justice-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+          "slug": "justice-department"
+        }
+      ],
+      "agency_names": [
+        "Justice Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17580",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17580/proposed-consent-decree-under-cercla",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17580",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17580_PI.pdf",
+      "pdf_file_size": 58557,
+      "pdf_updated_at": "2020-08-11T08:45:24.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17580.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/580.txt",
+      "subject_1": "Proposed Consent Decree under CERCLA",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Proposed Consent Decree under CERCLA",
+      "toc_doc": "Proposed Consent Decree under CERCLA",
+      "toc_subject": "",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "agency_names": [
+        "Federal Aviation Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17583",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17583/petition-for-exemption-summary-gulfstream-aerospace-corp",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17583",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17583_PI.pdf",
+      "pdf_file_size": 90978,
+      "pdf_updated_at": "2020-08-11T08:45:25.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17583.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/583.txt",
+      "subject_1": "Petition for Exemption; Summary:",
+      "subject_2": "Gulfstream Aerospace Corp.",
+      "subject_3": null,
+      "title": "Petition for Exemption; Summary: Gulfstream Aerospace Corp.",
+      "toc_doc": "Gulfstream Aerospace Corp.",
+      "toc_subject": "Petition for Exemption; Summary:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Veterans Affairs Department",
+          "name": "Veterans Affairs Department",
+          "id": 520,
+          "url": "https://www.federalregister.gov/agencies/veterans-affairs-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/520",
+          "slug": "veterans-affairs-department"
+        }
+      ],
+      "agency_names": [
+        "Veterans Affairs Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17584",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17584/indian-health-servicetribal-health-program-reimbursement-agreements-american-indianalaska-native",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17584",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17584_PI.pdf",
+      "pdf_file_size": 82433,
+      "pdf_updated_at": "2020-08-11T08:45:25.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17584.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/584.txt",
+      "subject_1": "Indian Health Service/Tribal Health Program Reimbursement Agreements:",
+      "subject_2": "American Indian/Alaska Native Veterans Care Coordination",
+      "subject_3": null,
+      "title": "Indian Health Service/Tribal Health Program Reimbursement Agreements: American Indian/Alaska Native Veterans Care Coordination",
+      "toc_doc": "American Indian/Alaska Native Veterans Care Coordination",
+      "toc_subject": "Indian Health Service/Tribal Health Program Reimbursement Agreements:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Foreign Assets Control Office",
+          "name": "Foreign Assets Control Office",
+          "id": 203,
+          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
+          "slug": "foreign-assets-control-office"
+        }
+      ],
+      "agency_names": [
+        "Foreign Assets Control Office"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17585",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17585/blocking-or-unblocking-of-persons-and-properties",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17585",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17585_PI.pdf",
+      "pdf_file_size": 78741,
+      "pdf_updated_at": "2020-08-11T08:45:25.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17585.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/585.txt",
+      "subject_1": "Blocking or Unblocking of Persons and Properties",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Blocking or Unblocking of Persons and Properties",
+      "toc_doc": "Blocking or Unblocking of Persons and Properties",
+      "toc_subject": "",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "agency_names": [
+        "National Institutes of Health"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17586",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17586/meetings-national-institute-on-aging",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17586",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17586_PI.pdf",
+      "pdf_file_size": 52828,
+      "pdf_updated_at": "2020-08-11T08:45:26.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17586.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/586.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "National Institute on Aging",
+      "subject_3": null,
+      "title": "Meetings: National Institute on Aging",
+      "toc_doc": "National Institute on Aging",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "CIVIL RIGHTS COMMISSION",
+          "name": "Civil Rights Commission",
+          "id": 52,
+          "url": "https://www.federalregister.gov/agencies/civil-rights-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/52",
+          "slug": "civil-rights-commission"
+        }
+      ],
+      "agency_names": [
+        "Civil Rights Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17588",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17588/meetings-illinois-advisory-committee-amendment",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17588",
+      "num_pages": 1,
+      "pdf_file_name": "2020-17588_PI.pdf",
+      "pdf_file_size": 49687,
+      "pdf_updated_at": "2020-08-11T08:45:26.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17588.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/588.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Illinois Advisory Committee; Amendment",
+      "subject_3": null,
+      "title": "Meetings: Illinois Advisory Committee; Amendment",
+      "toc_doc": "Illinois Advisory Committee; Amendment",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "agency_names": [
+        "National Institutes of Health"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17589",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17589/meetings-fogarty-international-center",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17589",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17589_PI.pdf",
+      "pdf_file_size": 57408,
+      "pdf_updated_at": "2020-08-11T08:45:26.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17589.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/589.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Fogarty International Center",
+      "subject_3": null,
+      "title": "Meetings: Fogarty International Center",
+      "toc_doc": "Fogarty International Center",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Children and Families Administration",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "agency_names": [
+        "Children and Families Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17590",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17590/agency-information-collection-activities-proposals-submissions-and-approvals-center-for-states",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17590",
+      "num_pages": 4,
+      "pdf_file_name": "2020-17590_PI.pdf",
+      "pdf_file_size": 97021,
+      "pdf_updated_at": "2020-08-11T08:45:26.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17590.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/590.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Center for States Evaluation Ancillary Data Collection",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Center for States Evaluation Ancillary Data Collection",
+      "toc_doc": "Center for States Evaluation Ancillary Data Collection",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Justice Department",
+          "name": "Justice Department",
+          "id": 268,
+          "url": "https://www.federalregister.gov/agencies/justice-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+          "slug": "justice-department"
+        }
+      ],
+      "agency_names": [
+        "Justice Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17591",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17591/proposed-consent-decree",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17591",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17591_PI.pdf",
+      "pdf_file_size": 52276,
+      "pdf_updated_at": "2020-08-11T08:45:26.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17591.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/591.txt",
+      "subject_1": "Proposed Consent Decree",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Proposed Consent Decree",
+      "toc_doc": "Proposed Consent Decree",
+      "toc_subject": "",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Maritime Administration",
+          "name": "Maritime Administration",
+          "id": 282,
+          "url": "https://www.federalregister.gov/agencies/maritime-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/282",
+          "slug": "maritime-administration"
+        }
+      ],
+      "agency_names": [
+        "Maritime Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17592",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17592/agency-information-collection-activities-proposals-submissions-and-approvals-generic-clearance-for",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17592",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17592_PI.pdf",
+      "pdf_file_size": 101454,
+      "pdf_updated_at": "2020-08-11T08:45:27.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17592.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/592.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "toc_doc": "Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Maritime Administration",
+          "name": "Maritime Administration",
+          "id": 282,
+          "url": "https://www.federalregister.gov/agencies/maritime-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/282",
+          "slug": "maritime-administration"
+        }
+      ],
+      "agency_names": [
+        "Maritime Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17593",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17593/agency-information-collection-activities-proposals-submissions-and-approvals-voluntary-intermodal",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17593",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17593_PI.pdf",
+      "pdf_file_size": 100438,
+      "pdf_updated_at": "2020-08-11T08:45:27.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17593.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/593.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Voluntary Intermodal Sealift Agreement (VISA)",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Voluntary Intermodal Sealift Agreement (VISA)",
+      "toc_doc": "Voluntary Intermodal Sealift Agreement (VISA)",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Highway Traffic Safety Administration",
+          "name": "National Highway Traffic Safety Administration",
+          "id": 345,
+          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
+          "slug": "national-highway-traffic-safety-administration"
+        }
+      ],
+      "agency_names": [
+        "National Highway Traffic Safety Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17596",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17596/petitions-for-exemption-federal-motor-vehicle-theft-prevention-standard",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17596",
+      "num_pages": 19,
+      "pdf_file_name": "2020-17596_PI.pdf",
+      "pdf_file_size": 115371,
+      "pdf_updated_at": "2020-08-11T08:45:27.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17596.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/596.txt",
+      "subject_1": "Petitions for Exemption:",
+      "subject_2": "Federal Motor Vehicle Theft Prevention Standard",
+      "subject_3": null,
+      "title": "Petitions for Exemption: Federal Motor Vehicle Theft Prevention Standard",
+      "toc_doc": "Federal Motor Vehicle Theft Prevention Standard",
+      "toc_subject": "Petitions for Exemption:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Pipeline and Hazardous Materials Safety Administration",
+          "name": "Pipeline and Hazardous Materials Safety Administration",
+          "id": 408,
+          "url": "https://www.federalregister.gov/agencies/pipeline-and-hazardous-materials-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/408",
+          "slug": "pipeline-and-hazardous-materials-safety-administration"
+        }
+      ],
+      "agency_names": [
+        "Pipeline and Hazardous Materials Safety Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17600",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17600/hazardous-materials-applications-for-modifications-to-special-permits",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17600",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17600_PI.pdf",
+      "pdf_file_size": 100196,
+      "pdf_updated_at": "2020-08-11T08:45:28.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17600.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/600.txt",
+      "subject_1": "Hazardous Materials:",
+      "subject_2": "Applications for Modifications to Special Permits",
+      "subject_3": null,
+      "title": "Hazardous Materials: Applications for Modifications to Special Permits",
+      "toc_doc": "Applications for Modifications to Special Permits",
+      "toc_subject": "Hazardous Materials:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Pipeline and Hazardous Materials Safety Administration",
+          "name": "Pipeline and Hazardous Materials Safety Administration",
+          "id": 408,
+          "url": "https://www.federalregister.gov/agencies/pipeline-and-hazardous-materials-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/408",
+          "slug": "pipeline-and-hazardous-materials-safety-administration"
+        }
+      ],
+      "agency_names": [
+        "Pipeline and Hazardous Materials Safety Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17601",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17601/hazardous-materials-actions-on-special-permits",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17601",
+      "num_pages": 6,
+      "pdf_file_name": "2020-17601_PI.pdf",
+      "pdf_file_size": 106966,
+      "pdf_updated_at": "2020-08-11T08:45:28.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17601.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/601.txt",
+      "subject_1": "Hazardous Materials:",
+      "subject_2": "Actions on Special Permits",
+      "subject_3": null,
+      "title": "Hazardous Materials: Actions on Special Permits",
+      "toc_doc": "Actions on Special Permits",
+      "toc_subject": "Hazardous Materials:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Health and Human Services Department",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "slug": "health-and-human-services-department"
+        }
+      ],
+      "agency_names": [
+        "Health and Human Services Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17602",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17602/findings-of-research-misconduct",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17602",
+      "num_pages": 21,
+      "pdf_file_name": "2020-17602_PI.pdf",
+      "pdf_file_size": 118956,
+      "pdf_updated_at": "2020-08-11T08:45:28.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17602.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/602.txt",
+      "subject_1": "Findings of Research Misconduct",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Findings of Research Misconduct",
+      "toc_doc": "Findings of Research Misconduct",
+      "toc_subject": "",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Pipeline and Hazardous Materials Safety Administration",
+          "name": "Pipeline and Hazardous Materials Safety Administration",
+          "id": 408,
+          "url": "https://www.federalregister.gov/agencies/pipeline-and-hazardous-materials-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/408",
+          "slug": "pipeline-and-hazardous-materials-safety-administration"
+        }
+      ],
+      "agency_names": [
+        "Pipeline and Hazardous Materials Safety Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17603",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17603/hazardous-materials-applications-for-new-special-permits",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17603",
+      "num_pages": 4,
+      "pdf_file_name": "2020-17603_PI.pdf",
+      "pdf_file_size": 105905,
+      "pdf_updated_at": "2020-08-11T08:45:29.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17603.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/603.txt",
+      "subject_1": "Hazardous Materials:",
+      "subject_2": "Applications for New Special Permits",
+      "subject_3": null,
+      "title": "Hazardous Materials: Applications for New Special Permits",
+      "toc_doc": "Applications for New Special Permits",
+      "toc_subject": "Hazardous Materials:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Energy Department",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "slug": "energy-department"
+        }
+      ],
+      "agency_names": [
+        "Energy Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17605",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17605/request-for-information-accelerated-materials-research-and-development-testingqualification-and",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17605",
+      "num_pages": 4,
+      "pdf_file_name": "2020-17605_PI.pdf",
+      "pdf_file_size": 94565,
+      "pdf_updated_at": "2020-08-11T08:45:29.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17605.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/605.txt",
+      "subject_1": "Request for Information:",
+      "subject_2": "Accelerated Materials Research and Development, Testing/Qualification, and Cost-Effective Manufacturing Routes for Harsh Service Environment Materials",
+      "subject_3": null,
+      "title": "Request for Information: Accelerated Materials Research and Development, Testing/Qualification, and Cost-Effective Manufacturing Routes for Harsh Service Environment Materials",
+      "toc_doc": "Accelerated Materials Research and Development, Testing/Qualification, and Cost-Effective Manufacturing Routes for Harsh Service Environment Materials",
+      "toc_subject": "Request for Information:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "GENERAL SERVICES ADMINISTRATION",
+          "name": "General Services Administration",
+          "id": 210,
+          "url": "https://www.federalregister.gov/agencies/general-services-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
+          "slug": "general-services-administration"
+        }
+      ],
+      "agency_names": [
+        "General Services Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17606",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17606/meetings-implementation-of-section-889-of-the-fiscal-year-2019-national-defense-authorization-act",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17606",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17606_PI.pdf",
+      "pdf_file_size": 104610,
+      "pdf_updated_at": "2020-08-11T08:45:29.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17606.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/606.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Implementation of Section 889 of the Fiscal Year 2019 National Defense Authorization Act",
+      "subject_3": null,
+      "title": "Meetings: Implementation of Section 889 of the Fiscal Year 2019 National Defense Authorization Act",
+      "toc_doc": "Implementation of Section 889 of the Fiscal Year 2019 National Defense Authorization Act",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "agency_names": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17609",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17609/fisheries-of-the-northeastern-united-states-summer-flounder-scup-and-black-sea-bass-fishery",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17609",
+      "num_pages": 15,
+      "pdf_file_name": "2020-17609_PI.pdf",
+      "pdf_file_size": 130291,
+      "pdf_updated_at": "2020-08-11T08:45:30.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17609.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/609.txt",
+      "subject_1": "Fisheries of the Northeastern United States:",
+      "subject_2": "Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan; Amendment 21",
+      "subject_3": null,
+      "title": "Fisheries of the Northeastern United States: Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan; Amendment 21",
+      "toc_doc": "Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan; Amendment 21",
+      "toc_subject": "Fisheries of the Northeastern United States:",
+      "type": "Proposed Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "agency_names": [
+        "Environmental Protection Agency"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17610",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17610/final-toxic-substances-control-act-risk-evaluation-1-bromopropane-availability",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17610",
+      "num_pages": 7,
+      "pdf_file_name": "2020-17610_PI.pdf",
+      "pdf_file_size": 99167,
+      "pdf_updated_at": "2020-08-11T08:45:30.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17610.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/610.txt",
+      "subject_1": "Final Toxic Substances Control Act Risk Evaluation:",
+      "subject_2": "1-Bromopropane; Availability",
+      "subject_3": null,
+      "title": "Final Toxic Substances Control Act Risk Evaluation: 1-Bromopropane; Availability",
+      "toc_doc": "1-Bromopropane; Availability",
+      "toc_subject": "Final Toxic Substances Control Act Risk Evaluation:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Energy Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17611",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17611/combined-filings",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17611",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17611_PI.pdf",
+      "pdf_file_size": 61397,
+      "pdf_updated_at": "2020-08-11T08:45:30.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17611.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/611.txt",
+      "subject_1": "Combined Filings",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Combined Filings",
+      "toc_doc": "Combined Filings",
+      "toc_subject": "",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Energy Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17612",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17612/combined-filings",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17612",
+      "num_pages": 4,
+      "pdf_file_name": "2020-17612_PI.pdf",
+      "pdf_file_size": 68641,
+      "pdf_updated_at": "2020-08-11T08:45:31.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17612.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/612.txt",
+      "subject_1": "Combined Filings",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Combined Filings",
+      "toc_doc": "Combined Filings",
+      "toc_subject": "",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Energy Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17613",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17613/initial-market-based-rate-filings-including-requests-for-blanket-section-204-authorizations-skeleton",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17613",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17613_PI.pdf",
+      "pdf_file_size": 69005,
+      "pdf_updated_at": "2020-08-11T08:45:31.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17613.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/613.txt",
+      "subject_1": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "subject_2": "Skeleton Creek Wind, LLC",
+      "subject_3": null,
+      "title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: Skeleton Creek Wind, LLC",
+      "toc_doc": "Skeleton Creek Wind, LLC",
+      "toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Energy Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17614",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17614/initial-market-based-rate-filings-including-requests-for-blanket-section-204-authorizations-kings",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17614",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17614_PI.pdf",
+      "pdf_file_size": 76632,
+      "pdf_updated_at": "2020-08-11T08:45:31.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17614.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/614.txt",
+      "subject_1": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "subject_2": "Kings Point Wind, LLC",
+      "subject_3": null,
+      "title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: Kings Point Wind, LLC",
+      "toc_doc": "Kings Point Wind, LLC",
+      "toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "INTERNATIONAL TRADE COMMISSION",
+          "name": "International Trade Commission",
+          "id": 262,
+          "url": "https://www.federalregister.gov/agencies/international-trade-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/262",
+          "slug": "international-trade-commission"
+        }
+      ],
+      "agency_names": [
+        "International Trade Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17615",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17615/investigations-determinations-modifications-and-rulings-etc-large-residential-washers-extension-of",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17615",
+      "num_pages": 5,
+      "pdf_file_name": "2020-17615_PI.pdf",
+      "pdf_file_size": 79684,
+      "pdf_updated_at": "2020-08-11T08:45:31.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17615.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/615.txt",
+      "subject_1": "Investigations; Determinations, Modifications, and Rulings, etc.:",
+      "subject_2": "Large Residential Washers; Extension of Action",
+      "subject_3": null,
+      "title": "Investigations; Determinations, Modifications, and Rulings, etc.: Large Residential Washers; Extension of Action",
+      "toc_doc": "Large Residential Washers; Extension of Action",
+      "toc_subject": "Investigations; Determinations, Modifications, and Rulings, etc.:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Energy Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17616",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17616/initial-market-based-rate-filings-including-requests-for-blanket-section-204-authorizations-soldier",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17616",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17616_PI.pdf",
+      "pdf_file_size": 60119,
+      "pdf_updated_at": "2020-08-11T08:45:31.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17616.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/616.txt",
+      "subject_1": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "subject_2": "Soldier Creek Wind, LLC",
+      "subject_3": null,
+      "title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: Soldier Creek Wind, LLC",
+      "toc_doc": "Soldier Creek Wind, LLC",
+      "toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Energy Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17617",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17617/filing-western-area-power-administration",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17617",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17617_PI.pdf",
+      "pdf_file_size": 39468,
+      "pdf_updated_at": "2020-08-11T08:45:32.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17617.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/617.txt",
+      "subject_1": "Filing:",
+      "subject_2": "Western Area Power Administration",
+      "subject_3": null,
+      "title": "Filing: Western Area Power Administration",
+      "toc_doc": "Western Area Power Administration",
+      "toc_subject": "Filing:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "INTERNATIONAL TRADE COMMISSION",
+          "name": "International Trade Commission",
+          "id": 262,
+          "url": "https://www.federalregister.gov/agencies/international-trade-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/262",
+          "slug": "international-trade-commission"
+        }
+      ],
+      "agency_names": [
+        "International Trade Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17618",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17618/complaint-certain-non-invasive-aesthetic-body-contouring-devices-components-thereof-and-methods-of",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17618",
+      "num_pages": 5,
+      "pdf_file_name": "2020-17618_PI.pdf",
+      "pdf_file_size": 87972,
+      "pdf_updated_at": "2020-08-11T08:45:32.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17618.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/618.txt",
+      "subject_1": "Complaint:",
+      "subject_2": "Certain Non-Invasive Aesthetic Body-Contouring Devices, Components Thereof, and Methods of Using Same",
+      "subject_3": null,
+      "title": "Complaint: Certain Non-Invasive Aesthetic Body-Contouring Devices, Components Thereof, and Methods of Using Same",
+      "toc_doc": "Certain Non-Invasive Aesthetic Body-Contouring Devices, Components Thereof, and Methods of Using Same",
+      "toc_subject": "Complaint:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Energy Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17619",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17619/initial-market-based-rate-filings-including-requests-for-blanket-section-204-authorizations-nobles-2",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17619",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17619_PI.pdf",
+      "pdf_file_size": 76698,
+      "pdf_updated_at": "2020-08-11T08:45:32.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17619.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/619.txt",
+      "subject_1": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "subject_2": "Nobles 2 Power Partners, LLC",
+      "subject_3": null,
+      "title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: Nobles 2 Power Partners, LLC",
+      "toc_doc": "Nobles 2 Power Partners, LLC",
+      "toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Energy Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17620",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17620/initial-market-based-rate-filings-including-requests-for-blanket-section-204-authorizations-north",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17620",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17620_PI.pdf",
+      "pdf_file_size": 60086,
+      "pdf_updated_at": "2020-08-11T08:45:33.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17620.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/620.txt",
+      "subject_1": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "subject_2": "North Fork Ridge Wind, LLC",
+      "subject_3": null,
+      "title": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations: North Fork Ridge Wind, LLC",
+      "toc_doc": "North Fork Ridge Wind, LLC",
+      "toc_subject": "Initial Market-Based Rate Filings Including Requests for Blanket Section 204 Authorizations:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "agency_names": [
+        "Nuclear Regulatory Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17622",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17622/agency-information-collection-activities-proposals-submissions-and-approvals-international-atomic",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17622",
+      "num_pages": 5,
+      "pdf_file_name": "2020-17622_PI.pdf",
+      "pdf_file_size": 105961,
+      "pdf_updated_at": "2020-08-11T08:45:33.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17622.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/622.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "International Atomic Energy Agency Design Information Questionnaire",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: International Atomic Energy Agency Design Information Questionnaire",
+      "toc_doc": "International Atomic Energy Agency Design Information Questionnaire",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Foreign Assets Control Office",
+          "name": "Foreign Assets Control Office",
+          "id": 203,
+          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
+          "slug": "foreign-assets-control-office"
+        }
+      ],
+      "agency_names": [
+        "Foreign Assets Control Office"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17625",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17625/blocking-or-unblocking-of-persons-and-properties",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17625",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17625_PI.pdf",
+      "pdf_file_size": 81830,
+      "pdf_updated_at": "2020-08-11T08:45:33.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17625.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/625.txt",
+      "subject_1": "Blocking or Unblocking of Persons and Properties",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Blocking or Unblocking of Persons and Properties",
+      "toc_doc": "Blocking or Unblocking of Persons and Properties",
+      "toc_subject": "",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        },
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "agency_names": [
+        "National Oceanic and Atmospheric Administration",
+        "Environmental Protection Agency"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17627",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17627/coastal-nonpoint-pollution-control-program-intent-to-find-that-washington-has-satisfied-all",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17627",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17627_PI.pdf",
+      "pdf_file_size": 67122,
+      "pdf_updated_at": "2020-08-11T08:45:34.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17627.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/627.txt",
+      "subject_1": "Coastal Nonpoint Pollution Control Program:",
+      "subject_2": "Intent to Find that Washington has Satisfied All Conditions of Approval Placed on its Coastal Nonpoint Pollution Control Program",
+      "subject_3": null,
+      "title": "Coastal Nonpoint Pollution Control Program: Intent to Find that Washington has Satisfied All Conditions of Approval Placed on its Coastal Nonpoint Pollution Control Program",
+      "toc_doc": "Intent to Find that Washington has Satisfied All Conditions of Approval Placed on its Coastal Nonpoint Pollution Control Program",
+      "toc_subject": "Coastal Nonpoint Pollution Control Program:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "PENSION BENEFIT GUARANTY CORPORATION",
+          "name": "Pension Benefit Guaranty Corporation",
+          "id": 405,
+          "url": "https://www.federalregister.gov/agencies/pension-benefit-guaranty-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/405",
+          "slug": "pension-benefit-guaranty-corporation"
+        }
+      ],
+      "agency_names": [
+        "Pension Benefit Guaranty Corporation"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17629",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17629/agency-information-collection-activities-proposals-submissions-and-approvals-generic-clearance-for",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17629",
+      "num_pages": 5,
+      "pdf_file_name": "2020-17629_PI.pdf",
+      "pdf_file_size": 96956,
+      "pdf_updated_at": "2020-08-11T08:45:34.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17629.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/629.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "toc_doc": "Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RESERVE SYSTEM",
+          "name": "Federal Reserve System",
+          "id": 188,
+          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
+          "slug": "federal-reserve-system"
+        }
+      ],
+      "agency_names": [
+        "Federal Reserve System"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17630",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17630/changes-in-bank-control-acquisitions-of-shares-of-a-bank-or-bank-holding-company",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17630",
+      "num_pages": 1,
+      "pdf_file_name": "2020-17630_PI.pdf",
+      "pdf_file_size": 79913,
+      "pdf_updated_at": "2020-08-11T08:45:34.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17630.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/630.txt",
+      "subject_1": "Changes in Bank Control:",
+      "subject_2": "Acquisitions of Shares of a Bank or Bank Holding Company",
+      "subject_3": null,
+      "title": "Changes in Bank Control: Acquisitions of Shares of a Bank or Bank Holding Company",
+      "toc_doc": "Acquisitions of Shares of a Bank or Bank Holding Company",
+      "toc_subject": "Changes in Bank Control:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "slug": "international-trade-administration"
+        }
+      ],
+      "agency_names": [
+        "International Trade Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17631",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17631/antidumping-or-countervailing-duty-investigations-orders-or-reviews-passenger-vehicle-and-light",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17631",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17631_PI.pdf",
+      "pdf_file_size": 61767,
+      "pdf_updated_at": "2020-08-11T08:45:35.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17631.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/631.txt",
+      "subject_1": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews:",
+      "subject_2": "Passenger Vehicle and Light Truck Tires from the Socialist Republic of Vietnam",
+      "subject_3": null,
+      "title": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews: Passenger Vehicle and Light Truck Tires from the Socialist Republic of Vietnam",
+      "toc_doc": "Passenger Vehicle and Light Truck Tires from the Socialist Republic of Vietnam",
+      "toc_subject": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "slug": "international-trade-administration"
+        }
+      ],
+      "agency_names": [
+        "International Trade Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17632",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17632/antidumping-or-countervailing-duty-investigations-orders-or-reviews-oil-country-tubular-goods-from",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17632",
+      "num_pages": 4,
+      "pdf_file_name": "2020-17632_PI.pdf",
+      "pdf_file_size": 68793,
+      "pdf_updated_at": "2020-08-11T08:45:35.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17632.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/632.txt",
+      "subject_1": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews:",
+      "subject_2": "Oil Country Tubular Goods from India, the Republic of Korea, the Republic of Turkey, Ukraine, and the Socialist Republic of Vietnam",
+      "subject_3": null,
+      "title": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews: Oil Country Tubular Goods from India, the Republic of Korea, the Republic of Turkey, Ukraine, and the Socialist Republic of Vietnam",
+      "toc_doc": "Oil Country Tubular Goods from India, the Republic of Korea, the Republic of Turkey, Ukraine, and the Socialist Republic of Vietnam",
+      "toc_subject": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Education Department",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "slug": "education-department"
+        }
+      ],
+      "agency_names": [
+        "Education Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17634",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17634/request-for-comments-accrediting-agencies-currently-undergoing-review-for-the-purposes-of",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17634",
+      "num_pages": 8,
+      "pdf_file_name": "2020-17634_PI.pdf",
+      "pdf_file_size": 117910,
+      "pdf_updated_at": "2020-08-11T08:45:35.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17634.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/634.txt",
+      "subject_1": "Request for Comments:",
+      "subject_2": "Accrediting Agencies Currently Undergoing Review for the Purposes of Recognition",
+      "subject_3": null,
+      "title": "Request for Comments: Accrediting Agencies Currently Undergoing Review for the Purposes of Recognition",
+      "toc_doc": "Accrediting Agencies Currently Undergoing Review for the Purposes of Recognition",
+      "toc_subject": "Request for Comments:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Health Resources and Services Administration",
+          "name": "Health Resources and Services Administration",
+          "id": 222,
+          "url": "https://www.federalregister.gov/agencies/health-resources-and-services-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/222",
+          "slug": "health-resources-and-services-administration"
+        }
+      ],
+      "agency_names": [
+        "Health Resources and Services Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17635",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17635/agency-information-collection-activities-proposals-submissions-and-approvals-health-workforce",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17635",
+      "num_pages": 4,
+      "pdf_file_name": "2020-17635_PI.pdf",
+      "pdf_file_size": 104543,
+      "pdf_updated_at": "2020-08-11T08:45:35.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17635.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/635.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "Health Workforce Connector",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: Health Workforce Connector",
+      "toc_doc": "Health Workforce Connector",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "agency_names": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17636",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17636/meetings-atlantic-highly-migratory-species-advisory-panel",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17636",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17636_PI.pdf",
+      "pdf_file_size": 85885,
+      "pdf_updated_at": "2020-08-11T08:45:36.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17636.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/636.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Atlantic Highly Migratory Species Advisory Panel",
+      "subject_3": null,
+      "title": "Meetings: Atlantic Highly Migratory Species Advisory Panel",
+      "toc_doc": "Atlantic Highly Migratory Species Advisory Panel",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "slug": "international-trade-administration"
+        }
+      ],
+      "agency_names": [
+        "International Trade Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17637",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17637/determination-of-sales-at-less-than-fair-value-wood-mouldings-and-millwork-products-from-the-peoples",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17637",
+      "num_pages": 15,
+      "pdf_file_name": "2020-17637_PI.pdf",
+      "pdf_file_size": 111447,
+      "pdf_updated_at": "2020-08-11T08:45:36.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17637.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/637.txt",
+      "subject_1": "Determination of Sales At Less Than Fair Value:",
+      "subject_2": "Wood Mouldings and Millwork Products from the People's Republic of China",
+      "subject_3": null,
+      "title": "Determination of Sales At Less Than Fair Value: Wood Mouldings and Millwork Products from the People's Republic of China",
+      "toc_doc": "Wood Mouldings and Millwork Products from the People's Republic of China",
+      "toc_subject": "Determination of Sales At Less Than Fair Value:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "slug": "international-trade-administration"
+        }
+      ],
+      "agency_names": [
+        "International Trade Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17638",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17638/determination-of-sales-at-less-than-fair-value-wood-mouldings-and-millwork-products-from-brazil",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17638",
+      "num_pages": 10,
+      "pdf_file_name": "2020-17638_PI.pdf",
+      "pdf_file_size": 99201,
+      "pdf_updated_at": "2020-08-11T08:45:37.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17638.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/638.txt",
+      "subject_1": "Determination of Sales At Less Than Fair Value:",
+      "subject_2": "Wood Mouldings and Millwork Products from Brazil",
+      "subject_3": null,
+      "title": "Determination of Sales At Less Than Fair Value: Wood Mouldings and Millwork Products from Brazil",
+      "toc_doc": "Wood Mouldings and Millwork Products from Brazil",
+      "toc_subject": "Determination of Sales At Less Than Fair Value:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "International Trade Administration",
+          "name": "International Trade Administration",
+          "id": 261,
+          "url": "https://www.federalregister.gov/agencies/international-trade-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/261",
+          "slug": "international-trade-administration"
+        }
+      ],
+      "agency_names": [
+        "International Trade Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17639",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17639/antidumping-or-countervailing-duty-investigations-orders-or-reviews-citric-acid-and-certain-citrate",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17639",
+      "num_pages": 9,
+      "pdf_file_name": "2020-17639_PI.pdf",
+      "pdf_file_size": 93321,
+      "pdf_updated_at": "2020-08-11T08:45:37.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17639.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/639.txt",
+      "subject_1": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews:",
+      "subject_2": "Citric Acid and Certain Citrate Salts from Thailand",
+      "subject_3": null,
+      "title": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews: Citric Acid and Certain Citrate Salts from Thailand",
+      "toc_doc": "Citric Acid and Certain Citrate Salts from Thailand",
+      "toc_subject": "Antidumping or Countervailing Duty Investigations, Orders, or Reviews:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "agency_names": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17640",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17640/meetings-south-atlantic-fishery-management-council",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17640",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17640_PI.pdf",
+      "pdf_file_size": 80737,
+      "pdf_updated_at": "2020-08-11T08:45:37.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17640.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/640.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "South Atlantic Fishery Management Council",
+      "subject_3": null,
+      "title": "Meetings: South Atlantic Fishery Management Council",
+      "toc_doc": "South Atlantic Fishery Management Council",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "agency_names": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17641",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17641/meetings-new-england-fishery-management-council",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17641",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17641_PI.pdf",
+      "pdf_file_size": 84198,
+      "pdf_updated_at": "2020-08-11T08:45:37.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17641.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/641.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "New England Fishery Management Council",
+      "subject_3": null,
+      "title": "Meetings: New England Fishery Management Council",
+      "toc_doc": "New England Fishery Management Council",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "agency_names": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17642",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17642/meetings-new-england-fishery-management-council",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17642",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17642_PI.pdf",
+      "pdf_file_size": 86743,
+      "pdf_updated_at": "2020-08-11T08:45:38.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17642.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/642.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "New England Fishery Management Council",
+      "subject_3": null,
+      "title": "Meetings: New England Fishery Management Council",
+      "toc_doc": "New England Fishery Management Council",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "agency_names": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17643",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17643/meetings-western-pacific-fishery-management-council",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17643",
+      "num_pages": 6,
+      "pdf_file_name": "2020-17643_PI.pdf",
+      "pdf_file_size": 91593,
+      "pdf_updated_at": "2020-08-11T08:45:38.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17643.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/643.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Western Pacific Fishery Management Council",
+      "subject_3": null,
+      "title": "Meetings: Western Pacific Fishery Management Council",
+      "toc_doc": "Western Pacific Fishery Management Council",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "agency_names": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17644",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17644/meetings-western-pacific-fishery-management-council",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17644",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17644_PI.pdf",
+      "pdf_file_size": 86932,
+      "pdf_updated_at": "2020-08-11T08:45:38.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17644.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/644.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Western Pacific Fishery Management Council",
+      "subject_3": null,
+      "title": "Meetings: Western Pacific Fishery Management Council",
+      "toc_doc": "Western Pacific Fishery Management Council",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "agency_names": [
+        "Federal Aviation Administration"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17646",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17646/petition-for-exemption-summary-air-evac-ems-inc",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17646",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17646_PI.pdf",
+      "pdf_file_size": 88233,
+      "pdf_updated_at": "2020-08-11T08:45:38.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17646.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/646.txt",
+      "subject_1": "Petition for Exemption; Summary:",
+      "subject_2": "Air Evac EMS, Inc.",
+      "subject_3": null,
+      "title": "Petition for Exemption; Summary: Air Evac EMS, Inc.",
+      "toc_doc": "Air Evac EMS, Inc.",
+      "toc_subject": "Petition for Exemption; Summary:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "National Institutes of Health",
+          "name": "National Institutes of Health",
+          "id": 353,
+          "url": "https://www.federalregister.gov/agencies/national-institutes-of-health",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/353",
+          "slug": "national-institutes-of-health"
+        }
+      ],
+      "agency_names": [
+        "National Institutes of Health"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17647",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17647/meetings-national-human-genome-research-institute",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17647",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17647_PI.pdf",
+      "pdf_file_size": 52449,
+      "pdf_updated_at": "2020-08-11T08:45:39.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17647.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/647.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "National Human Genome Research Institute",
+      "subject_3": null,
+      "title": "Meetings: National Human Genome Research Institute",
+      "toc_doc": "National Human Genome Research Institute",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "STATE DEPARTMENT",
+          "name": "State Department",
+          "id": 476,
+          "url": "https://www.federalregister.gov/agencies/state-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/476",
+          "slug": "state-department"
+        }
+      ],
+      "agency_names": [
+        "State Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17648",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17648/request-for-applicants-international-digital-economy-and-telecommunication-advisory-committee",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17648",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17648_PI.pdf",
+      "pdf_file_size": 82273,
+      "pdf_updated_at": "2020-08-11T08:45:39.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17648.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/648.txt",
+      "subject_1": "Request for Applicants:",
+      "subject_2": "International Digital Economy and Telecommunication Advisory Committee",
+      "subject_3": null,
+      "title": "Request for Applicants: International Digital Economy and Telecommunication Advisory Committee",
+      "toc_doc": "International Digital Economy and Telecommunication Advisory Committee",
+      "toc_subject": "Request for Applicants:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "STATE DEPARTMENT",
+          "name": "State Department",
+          "id": 476,
+          "url": "https://www.federalregister.gov/agencies/state-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/476",
+          "slug": "state-department"
+        }
+      ],
+      "agency_names": [
+        "State Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17649",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17649/meetings-advisory-committee-on-historical-diplomatic-documentation",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17649",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17649_PI.pdf",
+      "pdf_file_size": 76251,
+      "pdf_updated_at": "2020-08-11T08:45:39.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17649.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/649.txt",
+      "subject_1": "Meetings:",
+      "subject_2": "Advisory Committee on Historical Diplomatic Documentation",
+      "subject_3": null,
+      "title": "Meetings: Advisory Committee on Historical Diplomatic Documentation",
+      "toc_doc": "Advisory Committee on Historical Diplomatic Documentation",
+      "toc_subject": "Meetings:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "FEDERAL MARITIME COMMISSION",
+          "name": "Federal Maritime Commission",
+          "id": 178,
+          "url": "https://www.federalregister.gov/agencies/federal-maritime-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/178",
+          "slug": "federal-maritime-commission"
+        }
+      ],
+      "agency_names": [
+        "Federal Maritime Commission"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17655",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17655/filing-of-complaint-and-assignment-nnabugwu-chinedu-andrew-avers-logistics-ltd-and-cj-deluz-nigeria",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17655",
+      "num_pages": 2,
+      "pdf_file_name": "2020-17655_PI.pdf",
+      "pdf_file_size": 38739,
+      "pdf_updated_at": "2020-08-11T08:45:39.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17655.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/655.txt",
+      "subject_1": "Filing of Complaint and Assignment:",
+      "subject_2": "Nnabugwu Chinedu Andrew, Avers Logistics, Ltd., and CJ Deluz Nigeria, Ltd., Complainants  v.  Marine Transport Logistics, Inc., Alla Solovyeva, and Raya Bakhirev, Respondents",
+      "subject_3": null,
+      "title": "Filing of Complaint and Assignment: Nnabugwu Chinedu Andrew, Avers Logistics, Ltd., and CJ Deluz Nigeria, Ltd., Complainants  v.  Marine Transport Logistics, Inc., Alla Solovyeva, and Raya Bakhirev, Respondents",
+      "toc_doc": "Nnabugwu Chinedu Andrew, Avers Logistics, Ltd., and CJ Deluz Nigeria, Ltd., Complainants  v.  Marine Transport Logistics, Inc., Alla Solovyeva, and Raya Bakhirev, Respondents",
+      "toc_subject": "Filing of Complaint and Assignment:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "CORPORATION FOR NATIONAL AND COMMUNITY SERVICE",
+          "name": "Corporation for National and Community Service",
+          "id": 91,
+          "url": "https://www.federalregister.gov/agencies/corporation-for-national-and-community-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/91",
+          "slug": "corporation-for-national-and-community-service"
+        }
+      ],
+      "agency_names": [
+        "Corporation for National and Community Service"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17656",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17656/agency-information-collection-activities-proposals-submissions-and-approvals-nccc-team-leader",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17656",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17656_PI.pdf",
+      "pdf_file_size": 91744,
+      "pdf_updated_at": "2020-08-11T08:45:40.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17656.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/656.txt",
+      "subject_1": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "subject_2": "NCCC Team Leader Application",
+      "subject_3": null,
+      "title": "Agency Information Collection Activities; Proposals, Submissions, and Approvals: NCCC Team Leader Application",
+      "toc_doc": "NCCC Team Leader Application",
+      "toc_subject": "Agency Information Collection Activities; Proposals, Submissions, and Approvals:",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Housing and Urban Development Department",
+          "name": "Housing and Urban Development Department",
+          "id": 228,
+          "url": "https://www.federalregister.gov/agencies/housing-and-urban-development-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/228",
+          "slug": "housing-and-urban-development-department"
+        }
+      ],
+      "agency_names": [
+        "Housing and Urban Development Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17658",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T08:45:00.000-04:00",
+      "filing_type": "regular",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17658/regulatory-waiver-requests-granted-for-the-first-quarter-of-calendar-year-2020",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17658",
+      "num_pages": 43,
+      "pdf_file_name": "2020-17658_PI.pdf",
+      "pdf_file_size": 167429,
+      "pdf_updated_at": "2020-08-11T08:45:40.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17658.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/658.txt",
+      "subject_1": "Regulatory Waiver Requests Granted for the First Quarter of Calendar Year 2020",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Regulatory Waiver Requests Granted for the First Quarter of Calendar Year 2020",
+      "toc_doc": "Regulatory Waiver Requests Granted for the First Quarter of Calendar Year 2020",
+      "toc_subject": "",
+      "type": "Notice"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Agriculture Department",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "slug": "agriculture-department"
+        }
+      ],
+      "agency_names": [
+        "Agriculture Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17780",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T11:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/14/2020-17780/coronavirus-food-assistance-program-correction",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17780",
+      "num_pages": 5,
+      "pdf_file_name": "2020-17780_PI.pdf",
+      "pdf_file_size": 97107,
+      "pdf_updated_at": "2020-08-11T11:15:14.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17780.pdf",
+      "publication_date": "2020-08-14",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/780.txt",
+      "subject_1": "Coronavirus Food Assistance Program; Correction",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "Coronavirus Food Assistance Program; Correction",
+      "toc_doc": "Coronavirus Food Assistance Program; Correction",
+      "toc_subject": "",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Agriculture Department",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "slug": "agriculture-department"
+        }
+      ],
+      "agency_names": [
+        "Agriculture Department"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17781",
+      "editorial_note": "An agency letter requesting a minor edit was received after this document was placed on public inspection. A copy of the agency's letter is available for inspection at the Office of the Federal Register. This document will remain on public inspection through the close of business on Friday, August 14, 2020.",
+      "excerpts": null,
+      "filed_at": "2020-08-11T11:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/14/2020-17781/funding-availability-coronavirus-food-assistance-program-additional-eligible-commodities",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17781",
+      "num_pages": 17,
+      "pdf_file_name": "2020-17781_PI.pdf",
+      "pdf_file_size": 129488,
+      "pdf_updated_at": "2020-08-11T16:39:12.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17781.pdf",
+      "publication_date": "2020-08-14",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/781.txt",
+      "subject_1": "Funding Availability:",
+      "subject_2": "Coronavirus Food Assistance Program; Additional Eligible Commodities",
+      "subject_3": null,
+      "title": "Funding Availability: Coronavirus Food Assistance Program; Additional Eligible Commodities",
+      "toc_doc": "Coronavirus Food Assistance Program; Additional Eligible Commodities",
+      "toc_subject": "Funding Availability:",
+      "type": "Rule"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Presidential Documents",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "agency_names": [
+        "Executive Office of the President"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17784",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T11:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17784/covid-19-response-and-economic-recovery-facilitation-in-arizona-extension-of-use-of-national-guard",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17784",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17784_PI.pdf",
+      "pdf_file_size": 60690,
+      "pdf_updated_at": "2020-08-11T11:15:14.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17784.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/784.txt",
+      "subject_1": "COVID-19 Response and Economic Recovery Facilitation in Arizona; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "COVID-19 Response and Economic Recovery Facilitation in Arizona; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "toc_doc": "COVID-19 Response and Economic Recovery Facilitation in Arizona; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "toc_subject": "",
+      "type": "Presidential Document"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Presidential Documents",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "agency_names": [
+        "Executive Office of the President"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17786",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T11:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17786/covid-19-response-and-economic-recovery-facilitation-in-california-extension-of-use-of-national",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17786",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17786_PI.pdf",
+      "pdf_file_size": 60766,
+      "pdf_updated_at": "2020-08-11T11:15:14.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17786.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/786.txt",
+      "subject_1": "COVID-19 Response and Economic Recovery Facilitation in California; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "COVID-19 Response and Economic Recovery Facilitation in California; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "toc_doc": "COVID-19 Response and Economic Recovery Facilitation in California; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "toc_subject": "",
+      "type": "Presidential Document"
+    },
+    {
+      "agencies": [
+        {
+          "raw_name": "Presidential Documents",
+          "name": "Executive Office of the President",
+          "id": 538,
+          "url": "https://www.federalregister.gov/agencies/executive-office-of-the-president",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/538",
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "agency_names": [
+        "Executive Office of the President"
+      ],
+      "docket_numbers": [],
+      "document_number": "2020-17788",
+      "editorial_note": null,
+      "excerpts": null,
+      "filed_at": "2020-08-11T11:15:00.000-04:00",
+      "filing_type": "special",
+      "html_url": "https://www.federalregister.gov/documents/2020/08/12/2020-17788/covid-19-response-and-economic-recovery-facilitation-in-connecticut-extension-of-use-of-national",
+      "json_url": "https://www.federalregister.gov/api/v1/public_inspection_documents/2020-17788",
+      "num_pages": 3,
+      "pdf_file_name": "2020-17788_PI.pdf",
+      "pdf_file_size": 60435,
+      "pdf_updated_at": "2020-08-11T11:15:15.000-04:00",
+      "pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2020-17788.pdf",
+      "publication_date": "2020-08-12",
+      "raw_text_url": "https://www.federalregister.gov/public-inspection/raw_text/202/017/788.txt",
+      "subject_1": "COVID-19 Response and Economic Recovery Facilitation in Connecticut; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "subject_2": null,
+      "subject_3": null,
+      "title": "COVID-19 Response and Economic Recovery Facilitation in Connecticut; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "toc_doc": "COVID-19 Response and Economic Recovery Facilitation in Connecticut; Extension of Use of National Guard (Memorandum of August 7, 2020)",
+      "toc_subject": "",
+      "type": "Presidential Document"
+    }
+  ],
+  "special_filings_updated_at": "2020-08-11T11:15:00.000-04:00",
+  "regular_filings_updated_at": "2020-08-11T08:45:00.000-04:00"
+}
